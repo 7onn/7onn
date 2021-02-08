@@ -24,11 +24,3 @@ jobs:
           plugin_languages_ignored: "html, css, php"
           plugin_languages_skipped: ""
           plugin_lines: yes
-      
-      - name: tweets plugin
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.tweets.svg
-          user: devbytom
-          plugin_tweets: yes
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
