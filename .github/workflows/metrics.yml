@@ -10,18 +10,18 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: devbytom/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
-          # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
-          # Options
-          user: tom
+          user: devbytom
           template: terminal
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           plugin_followup: yes
           plugin_languages: yes
+          plugin_languages_ignored: ""
+          plugin_languages_skipped: ""
           plugin_lines: yes
+          plugin_tweets: yes
