@@ -1,3 +1,11 @@
+---
+name: Daily
+about: Logging my day at work
+title: {{ date | date('dddd') }} mission
+labels: ['documentation']
+assignees: 'tompsh'
+---
+
 1. expectations (what should have my fully attention today)
   - [ ] example
   - [ ] example

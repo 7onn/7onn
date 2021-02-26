@@ -15,7 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          assignees: tompsh
-          title: "{{ date | date('dddd') }}"
+          filename: .github/ISSUE_TEMPLATE/daily.md
       
       - run: 'echo Created ${{ steps.create-issue.outputs.url }}'
