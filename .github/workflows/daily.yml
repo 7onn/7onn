@@ -1,6 +1,5 @@
 name: Daily
 on:
-  push:
   schedule:
   - cron: 0 7 * * *  # Every day at 7 am
 
@@ -16,5 +15,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           filename: .github/ISSUE_TEMPLATE/daily.md
-      
-      - run: 'echo Created ${{ steps.create-issue.outputs.url }}'
