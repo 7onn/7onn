@@ -1,7 +1,7 @@
 ---
 name: Daily
 about: Logging my day at work
-title: {{ date | date('dddd') }} mission
+title: the {{ date | date('dddd') }} mission
 assignees: tompsh,
 labels: documentation,
 ---
