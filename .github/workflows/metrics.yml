@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
-          user: devbytom
+          user: tompsh
           template: terminal
           base: header
           config_timezone: America/Sao_Paulo
