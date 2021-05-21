@@ -258,14 +258,14 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">tompsh@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>tom</b> registered=6y, uid=9221, gid=2
-  contributed to 70 repositories <b><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span></b>
-  followed by <b>13</b> users
+  contributed to 104 repositories <b><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#216e39">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span></b>
+  followed by <b>14</b> users
 </div>
 <div class="stdin"><span class="ps1-path">tompsh@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JAVASCRIPT  </b> [###############     ] 74.75%
 <b>GHERKIN     </b> [####                ] 15.10%
 <b>MUSTACHE    </b> [##                  ] 7.12 %
 <b>GO          </b> [#                   ] 1.26 %
-<b>EMACS LISP  </b> [#                   ] 1.25 %
+<b>EMACS LISP  </b> [#                   ] 1.24 %
 <b>TSQL        </b> [#                   ] 0.22 %
 <b>HCL         </b> [#                   ] 0.18 %
 <b>XSLT        </b> [#                   ] 0.13 %
