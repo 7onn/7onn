@@ -4,7 +4,7 @@
 
 ### Sup? 🤙🏼
 
-- 🔭 I’m currently working on the greatest brazilian EdTech
+- 🔭 I’m currently working at the greatest brazilian EdTech
 - 🌱 I’m currently learning about ~~distributed software~~ everything I find reasonable to get to know
 - 👯 I’m looking to collaborate on socially benevolent projects
 - 🤔 I’m looking for help with tearing the capitalism down
