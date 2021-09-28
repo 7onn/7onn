@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning about ~~distributed software~~ everything I find reasonable to get to know
 - 👯 I’m looking to collaborate on socially benevolent projects
 - 🤔 I’m looking for help with tearing the capitalism down
-- 💬 Ask me about Kubernetes and Cloud architecture
+- 💬 Ask me about Kubernetes and the observability in cloud architectures
 - 📫 Here's how to reach me: [twitter](https://twitter.com/_7onn_)
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 
