@@ -13,7 +13,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 
   - Someone told me I'm like Dr. Sheldon Cooper thinking about my surroundings
-  - The following GIF is how I felt (and still fell) building software for every company I've worked at
+  - The following GIF is how I felt (and still feel) building software for every company I've worked at
 
 
 <p align="center">
