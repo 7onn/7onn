@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on socially benevolent projects
 - 🤔 I’m looking for help with tearing the capitalism down or just taxing the rich
 - 💬 Ask me about Kubernetes and the observability in cloud architectures
-- 📫 Here's how to reach me: devbytom@gmail.com
+- 📫 Here's how to reach me: [LinkedIn](https://www.linkedin.com/in/7onn)
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: 
   - Someone told me I'm like Dr. Sheldon Cooper thinking about my surroundings
