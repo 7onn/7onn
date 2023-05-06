@@ -4,7 +4,7 @@
 
 ### Hey there, I'm Tom and..
 
-- 🔭 I’m currently working at the Trade Republic
+- ⚙️ I’m currently working at the Trade Republic
 - 🌱 I’m currently learning about ~~distributed software~~ everything I find reasonable to get to know
 - 👯 I’m looking to collaborate on socially benevolent projects
 - 🤔 I’m looking for help with tearing the capitalism down or just taxing the rich
