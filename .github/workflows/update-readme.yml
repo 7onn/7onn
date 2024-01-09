@@ -23,8 +23,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: Update generated README
+          commit_message: Update README.md from templates/README.md.tpl
           branch: main
-          commit_user_name: README-bot
-          commit_user_email: readme-bot@7onn.dev
-          commit_author: README-bot <readme-bot@7onn.dev>
+          commit_user_name: readmebot
+          commit_user_email: readmebot@7onn.dev
+          commit_author: readmebot <readmebot@7onn.dev>

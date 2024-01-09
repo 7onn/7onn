@@ -7,7 +7,7 @@
 - 📫 Here's how to reach me: [LinkedIn](https://www.linkedin.com/in/7onn)
 - 😄 Pronouns: He/Him
 
-### 👷 Latest Open source contributions
+### 👷 Latest open source contributions
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
@@ -18,19 +18,16 @@
 {{- end }}
 
 ### 🔭 Latest releases I've contributed to
-
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 ### 🔨 Latest Pull Requests I published
-
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 ### 📝 Some notes of my "blog"
-
 {{range rss "https://www.7onn.dev/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
