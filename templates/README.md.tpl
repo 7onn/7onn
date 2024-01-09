@@ -7,7 +7,7 @@
 - 📫 Here's how to reach me: [LinkedIn](https://www.linkedin.com/in/7onn)
 - 😄 Pronouns: He/Him
 
-### ⭐ Recent starred repositories
+### ⭐ Recently starred repositories
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
