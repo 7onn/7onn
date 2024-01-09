@@ -2,28 +2,21 @@
 
 - 🔭👨‍💻⚙💻 I’m currently working at the Trade Republic
 - 🌱 I’m currently learning about ~~distributed software~~ everything I find reasonable to get to know
-- 👯 I’m looking to collaborate on socially benevolent projects
+- 👯 I’m looking to collaborate on interesting or socially benevolent projects
 - 💬 Ask me about Kubernetes and the observability in cloud architectures
 - 📫 Here's how to reach me: [LinkedIn](https://www.linkedin.com/in/7onn)
 - 😄 Pronouns: He/Him
-- ⚡ Fun facts: 
-  - Someone told me I'm like Dr. Sheldon Cooper thinking about my surroundings
-  - The following GIF is how I felt (and still feel) building software for every company I've worked at
 
-
-<p align="center">
-  <img alt="building the path" src="./giphy.gif" />
-</p>
-
-
-### 👷 Open source contributions
-
+### 👷 Latest Open source contributions
 
 - [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) - personal static pages (4 weeks ago)
 - [7onn/.emacs.d](https://github.com/7onn/.emacs.d) - My GNU Emacs configuration (4 months ago)
 - [7onn/politicians-contacts](https://github.com/7onn/politicians-contacts) - Store and serve the list of Brazilian politicians and their official contact info (6 months ago)
 - [7onn/nginx-globe-gl](https://github.com/7onn/nginx-globe-gl) - Globe.gl visualization for NGINX access logs (8 months ago)
 - [tducasse/go-instabot](https://github.com/tducasse/go-instabot) - Automatically follow, like, and comment on instagram (9 months ago)
+- [7onn/helm-charts](https://github.com/7onn/helm-charts) - Helm charts for Kubernetes (9 months ago)
+- [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) - Identify unused resources at Google Cloud Platform through Prometheus&#39; metrics (9 months ago)
+- [7onn/croupier](https://github.com/7onn/croupier) -  (10 months ago)
 
 ### ⭐ Recent stars
 
@@ -32,6 +25,11 @@
 - [andygrunwald/andygrunwald](https://github.com/andygrunwald/andygrunwald) (today)
 - [padok-team/burrito](https://github.com/padok-team/burrito) - 🌯 Burrito is a TACoS 🌮 (5 days ago)
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code. (5 days ago)
+- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (5 days ago)
+- [grafana/snowflake-prometheus-exporter](https://github.com/grafana/snowflake-prometheus-exporter) - A golang based prometheus metrics exporter for Snowflake. (6 days ago)
+- [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml (6 days ago)
+- [brazilian-utils/brutils-python](https://github.com/brazilian-utils/brutils-python) - Utils library for specific Brazilian businesses 🇧🇷 (6 days ago)
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -48,7 +46,7 @@
 - [Prevent duplicated cities](https://github.com/7onn/nginx-globe-gl/pull/2) on [7onn/nginx-globe-gl](https://github.com/7onn/nginx-globe-gl) (8 months ago)
 - [Use local IP database instead of iplocation.net](https://github.com/7onn/nginx-globe-gl/pull/1) on [7onn/nginx-globe-gl](https://github.com/7onn/nginx-globe-gl) (8 months ago)
 
-### 📝 My recent blog posts
+### 📝 Some notes of my "blog"
 
 
 - [Efficiency and performance](https://www.7onn.dev/post/efficiency-and-performance/) (2 years ago)
@@ -56,3 +54,8 @@
 - [Demand forecasting and capacity planning](https://www.7onn.dev/post/demand-forecasting-and-capacity-planning/) (2 years ago)
 - [Change management](https://www.7onn.dev/post/change-management/) (2 years ago)
 - [Emergency response](https://www.7onn.dev/post/emergency-response/) (2 years ago)
+
+### ⚡ Funny gif about being employed as a Software Engineer
+<p align="center">
+  <img alt="building the path" src="./giphy.gif" />
+</p>
