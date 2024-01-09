@@ -7,7 +7,7 @@
 - 📫 Here's how to reach me: [LinkedIn](https://www.linkedin.com/in/7onn)
 - 😄 Pronouns: He/Him
 
-### 👷 Latest Open source contributions
+### 👷 Latest open source contributions
 
 - [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) - personal static pages (4 weeks ago)
 - [7onn/.emacs.d](https://github.com/7onn/.emacs.d) - My GNU Emacs configuration (4 months ago)
@@ -33,12 +33,10 @@
 
 ### 🔭 Latest releases I've contributed to
 
-
 - [7onn/helm-charts](https://github.com/7onn/helm-charts) ([gcp-idleness-exporter-1.0.1](https://github.com/7onn/helm-charts/releases/tag/gcp-idleness-exporter-1.0.1), 9 months ago) - Helm charts for Kubernetes
 - [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) ([v2.0.2](https://github.com/7onn/gcp-idleness-exporter/releases/tag/v2.0.2), 9 months ago) - Identify unused resources at Google Cloud Platform through Prometheus&#39; metrics
 
 ### 🔨 Latest Pull Requests I published
-
 
 - [[tempo-distributed] Enable autoscaling for Compactor](https://github.com/grafana/helm-charts/pull/2817) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 month ago)
 - [Add GeoLite2](https://github.com/isabellaherman/bolhaclub/pull/3) on [isabellaherman/bolhaclub](https://github.com/isabellaherman/bolhaclub) (4 months ago)
@@ -47,7 +45,6 @@
 - [Use local IP database instead of iplocation.net](https://github.com/7onn/nginx-globe-gl/pull/1) on [7onn/nginx-globe-gl](https://github.com/7onn/nginx-globe-gl) (8 months ago)
 
 ### 📝 Some notes of my "blog"
-
 
 - [Efficiency and performance](https://www.7onn.dev/post/efficiency-and-performance/) (2 years ago)
 - [Provisioning](https://www.7onn.dev/post/provisioning/) (2 years ago)
