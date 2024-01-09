@@ -31,11 +31,6 @@
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (1 month ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 month ago)
 
-### 🔭 Latest releases I've contributed to
-
-- [7onn/helm-charts](https://github.com/7onn/helm-charts) ([gcp-idleness-exporter-1.0.1](https://github.com/7onn/helm-charts/releases/tag/gcp-idleness-exporter-1.0.1), 9 months ago) - Helm charts for Kubernetes
-- [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) ([v2.0.2](https://github.com/7onn/gcp-idleness-exporter/releases/tag/v2.0.2), 9 months ago) - Identify unused resources at Google Cloud Platform through Prometheus&#39; metrics
-
 ### 🔨 Latest Pull Requests I published
 
 - [[tempo-distributed] Enable autoscaling for Compactor](https://github.com/grafana/helm-charts/pull/2817) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 month ago)
@@ -43,6 +38,16 @@
 - [Upgrade Go and deps](https://github.com/pecigonzalo/loro/pull/92) on [pecigonzalo/loro](https://github.com/pecigonzalo/loro) (5 months ago)
 - [Prevent duplicated cities](https://github.com/7onn/nginx-globe-gl/pull/2) on [7onn/nginx-globe-gl](https://github.com/7onn/nginx-globe-gl) (8 months ago)
 - [Use local IP database instead of iplocation.net](https://github.com/7onn/nginx-globe-gl/pull/1) on [7onn/nginx-globe-gl](https://github.com/7onn/nginx-globe-gl) (8 months ago)
+- [Update goinsta dependency](https://github.com/tducasse/go-instabot/pull/101) on [tducasse/go-instabot](https://github.com/tducasse/go-instabot) (9 months ago)
+- [Patch gcp-idleness-exporter](https://github.com/7onn/helm-charts/pull/6) on [7onn/helm-charts](https://github.com/7onn/helm-charts) (9 months ago)
+- [Bump go version to 1.19](https://github.com/7onn/gcp-idleness-exporter/pull/23) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (9 months ago)
+- [Upgrade modules](https://github.com/7onn/gcp-idleness-exporter/pull/22) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (9 months ago)
+- [Decrease cluster names&#39; length](https://github.com/pecigonzalo/dotFiles/pull/13) on [pecigonzalo/dotFiles](https://github.com/pecigonzalo/dotFiles) (1 year ago)
+
+### 🔭 Latest releases I've contributed to
+
+- [7onn/helm-charts](https://github.com/7onn/helm-charts) ([gcp-idleness-exporter-1.0.1](https://github.com/7onn/helm-charts/releases/tag/gcp-idleness-exporter-1.0.1), 9 months ago) - Helm charts for Kubernetes
+- [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) ([v2.0.2](https://github.com/7onn/gcp-idleness-exporter/releases/tag/v2.0.2), 9 months ago) - Identify unused resources at Google Cloud Platform through Prometheus&#39; metrics
 
 ### 📝 Some notes of my "blog"
 
