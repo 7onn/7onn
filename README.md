@@ -9,7 +9,7 @@
 
 ### 👷 Latest open source contributions
 
-- [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) - personal static pages (4 weeks ago)
+- [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) - Personal website and content archive (4 weeks ago)
 - [7onn/.emacs.d](https://github.com/7onn/.emacs.d) - My GNU Emacs configuration (4 months ago)
 - [7onn/politicians-contacts](https://github.com/7onn/politicians-contacts) - Store and serve the list of Brazilian politicians and their official contact info (6 months ago)
 - [7onn/nginx-globe-gl](https://github.com/7onn/nginx-globe-gl) - Globe.gl visualization for NGINX access logs (8 months ago)
@@ -21,8 +21,6 @@
 ### ⭐ Recent stars
 
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
-- [muesli/muesli](https://github.com/muesli/muesli) - My secret muesli repo (today)
-- [andygrunwald/andygrunwald](https://github.com/andygrunwald/andygrunwald) (today)
 - [padok-team/burrito](https://github.com/padok-team/burrito) - 🌯 Burrito is a TACoS 🌮 (5 days ago)
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code. (5 days ago)
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (5 days ago)
@@ -30,6 +28,8 @@
 - [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml (6 days ago)
 - [brazilian-utils/brutils-python](https://github.com/brazilian-utils/brutils-python) - Utils library for specific Brazilian businesses 🇧🇷 (6 days ago)
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes (1 week ago)
+- [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (1 month ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -56,4 +56,3 @@
 <p align="center">
   <img alt="building the path" src="./giphy.gif" />
 </p>
-
