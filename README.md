@@ -7,7 +7,7 @@
 - 📫 Here's how to reach me: [LinkedIn](https://www.linkedin.com/in/7onn)
 - 😄 Pronouns: He/Him
 
-### ⭐ Recent starred repositories
+### ⭐ Recently starred repositories
 
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
 - [padok-team/burrito](https://github.com/padok-team/burrito) - 🌯 Burrito is a TACoS 🌮 (5 days ago)
@@ -30,11 +30,11 @@
 
 ### 🔨 Latest Pull Requests I published
 
+- [Write gpg encryption article](https://github.com/7onn/7onn.github.io/pull/1) on [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) (today)
 - [[tempo-distributed] Enable autoscaling for Compactor](https://github.com/grafana/helm-charts/pull/2817) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 month ago)
 - [Add GeoLite2](https://github.com/isabellaherman/bolhaclub/pull/3) on [isabellaherman/bolhaclub](https://github.com/isabellaherman/bolhaclub) (4 months ago)
 - [Upgrade Go and deps](https://github.com/pecigonzalo/loro/pull/92) on [pecigonzalo/loro](https://github.com/pecigonzalo/loro) (5 months ago)
 - [Prevent duplicated cities](https://github.com/7onn/nginx-globe-gl/pull/2) on [7onn/nginx-globe-gl](https://github.com/7onn/nginx-globe-gl) (8 months ago)
-- [Use local IP database instead of iplocation.net](https://github.com/7onn/nginx-globe-gl/pull/1) on [7onn/nginx-globe-gl](https://github.com/7onn/nginx-globe-gl) (8 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
