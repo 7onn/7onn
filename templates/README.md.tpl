@@ -7,18 +7,18 @@
 - 📫 Here's how to reach me: [LinkedIn](https://www.linkedin.com/in/7onn)
 - 😄 Pronouns: He/Him
 
-### 👷 Latest open source contributions
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-### ⭐ Recent stars
+### ⭐ Recent starred repositories
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
 
+### 👷 Latest open source contributions
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
 ### 🔨 Latest Pull Requests I published
-{{range recentPullRequests 10}}
+{{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
