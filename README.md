@@ -9,12 +9,12 @@
 
 ### ⭐ Recently starred repositories
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
-- [padok-team/burrito](https://github.com/padok-team/burrito) - 🌯 Burrito is a TACoS 🌮 (5 days ago)
-- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (5 days ago)
-- [grafana/snowflake-prometheus-exporter](https://github.com/grafana/snowflake-prometheus-exporter) - A golang based prometheus metrics exporter for Snowflake. (6 days ago)
-- [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml (6 days ago)
-- [brazilian-utils/brutils-python](https://github.com/brazilian-utils/brutils-python) - Utils library for specific Brazilian businesses 🇧🇷 (6 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
+- [padok-team/burrito](https://github.com/padok-team/burrito) - 🌯 Burrito is a TACoS 🌮 (6 days ago)
+- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (6 days ago)
+- [grafana/snowflake-prometheus-exporter](https://github.com/grafana/snowflake-prometheus-exporter) - A golang based prometheus metrics exporter for Snowflake. (1 week ago)
+- [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml (1 week ago)
+- [brazilian-utils/brutils-python](https://github.com/brazilian-utils/brutils-python) - Utils library for specific Brazilian businesses 🇧🇷 (1 week ago)
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes (1 week ago)
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (1 month ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 month ago)
@@ -22,7 +22,7 @@
 
 ### 👷 Latest open source contributions
 
-- [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) - Personal website and content archive (4 weeks ago)
+- [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) - Personal website and content archive (1 month ago)
 - [7onn/.emacs.d](https://github.com/7onn/.emacs.d) - My GNU Emacs configuration (4 months ago)
 - [7onn/politicians-contacts](https://github.com/7onn/politicians-contacts) - Store and serve the list of Brazilian politicians and their official contact info (6 months ago)
 - [7onn/nginx-globe-gl](https://github.com/7onn/nginx-globe-gl) - Globe.gl visualization for NGINX access logs (8 months ago)
@@ -30,7 +30,7 @@
 
 ### 🔨 Latest Pull Requests I published
 
-- [Write gpg encryption article](https://github.com/7onn/7onn.github.io/pull/1) on [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) (today)
+- [Write gpg encryption article](https://github.com/7onn/7onn.github.io/pull/1) on [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) (1 day ago)
 - [[tempo-distributed] Enable autoscaling for Compactor](https://github.com/grafana/helm-charts/pull/2817) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 month ago)
 - [Add GeoLite2](https://github.com/isabellaherman/bolhaclub/pull/3) on [isabellaherman/bolhaclub](https://github.com/isabellaherman/bolhaclub) (4 months ago)
 - [Upgrade Go and deps](https://github.com/pecigonzalo/loro/pull/92) on [pecigonzalo/loro](https://github.com/pecigonzalo/loro) (5 months ago)
