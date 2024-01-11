@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [prometheus/promlens](https://github.com/prometheus/promlens) - PromLens – The query builder, analyzer, and explainer for PromQL (today)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
 - [padok-team/burrito](https://github.com/padok-team/burrito) - 🌯 Burrito is a TACoS 🌮 (1 week ago)
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (1 week ago)
@@ -18,7 +19,6 @@
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes (1 week ago)
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups (1 month ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 month ago)
-- [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond (1 month ago)
 
 ### 👷 Latest open source contributions
 
