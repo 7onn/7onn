@@ -22,7 +22,7 @@
 
 ### 👷 Latest open source contributions
 
-- [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) - Personal website and content archive (3 days ago)
+- [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) - Personal website and content archive (today)
 - [7onn/.emacs.d](https://github.com/7onn/.emacs.d) - Personal GNU Emacs configuration (4 months ago)
 - [7onn/politicians-contacts](https://github.com/7onn/politicians-contacts) - Store and serve the list of Brazilian politicians and their official contact info (6 months ago)
 - [7onn/nginx-globe-gl](https://github.com/7onn/nginx-globe-gl) - Globe.gl visualization for NGINX access logs (8 months ago)
@@ -43,11 +43,11 @@
 
 ### 📝 Some notes of my "blog"
 
+- [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (1 day ago)
 - [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (4 days ago)
 - [Efficiency and performance](https://www.7onn.dev/post/efficiency-and-performance/) (2 years ago)
 - [Provisioning](https://www.7onn.dev/post/provisioning/) (2 years ago)
 - [Demand forecasting and capacity planning](https://www.7onn.dev/post/demand-forecasting-and-capacity-planning/) (2 years ago)
-- [Change management](https://www.7onn.dev/post/change-management/) (2 years ago)
 
 ### ⚡ Funny gif about being employed as a Software Engineer
 <p align="center">
