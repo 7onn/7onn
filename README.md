@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (today)
 - [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes (1 day ago)
 - [backube/snapscheduler](https://github.com/backube/snapscheduler) - Scheduled snapshots for Kubernetes persistent volumes (3 days ago)
 - [prometheus/promlens](https://github.com/prometheus/promlens) - PromLens – The query builder, analyzer, and explainer for PromQL (3 days ago)
@@ -18,7 +19,6 @@
 - [grafana/snowflake-prometheus-exporter](https://github.com/grafana/snowflake-prometheus-exporter) - A golang based prometheus metrics exporter for Snowflake. (1 week ago)
 - [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml (1 week ago)
 - [brazilian-utils/brutils-python](https://github.com/brazilian-utils/brutils-python) - Utils library for specific Brazilian businesses 🇧🇷 (1 week ago)
-- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes (1 week ago)
 
 ### 👷 Latest open source contributions
 
