@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls (today)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (1 day ago)
 - [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (1 day ago)
 - [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes (2 days ago)
@@ -18,7 +19,6 @@
 - [padok-team/burrito](https://github.com/padok-team/burrito) - 🌯 Burrito is a TACoS 🌮 (1 week ago)
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (1 week ago)
 - [grafana/snowflake-prometheus-exporter](https://github.com/grafana/snowflake-prometheus-exporter) - A golang based prometheus metrics exporter for Snowflake. (1 week ago)
-- [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml (1 week ago)
 
 ### 👷 Latest open source contributions
 
