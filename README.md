@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls (2 days ago)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (3 days ago)
 - [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (3 days ago)
@@ -18,7 +19,6 @@
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
 - [padok-team/burrito](https://github.com/padok-team/burrito) - 🌯 Burrito is a TACoS 🌮 (1 week ago)
 - [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes. (1 week ago)
-- [grafana/snowflake-prometheus-exporter](https://github.com/grafana/snowflake-prometheus-exporter) - A golang based prometheus metrics exporter for Snowflake. (2 weeks ago)
 
 ### 👷 Latest open source contributions
 
