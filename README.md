@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (today)
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer (3 days ago)
 - [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id&#39;s DOOM! (3 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
@@ -18,7 +19,6 @@
 - [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes (1 week ago)
 - [backube/snapscheduler](https://github.com/backube/snapscheduler) - Scheduled snapshots for Kubernetes persistent volumes (1 week ago)
 - [prometheus/promlens](https://github.com/prometheus/promlens) - PromLens – The query builder, analyzer, and explainer for PromQL (1 week ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
 
 ### 👷 Latest open source contributions
 
