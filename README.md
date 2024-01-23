@@ -9,10 +9,10 @@
 
 ### ⭐ Recently starred repositories
 
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (today)
-- [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer (3 days ago)
-- [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id&#39;s DOOM! (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 day ago)
+- [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer (4 days ago)
+- [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id&#39;s DOOM! (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 - [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls (1 week ago)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (1 week ago)
 - [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (1 week ago)
@@ -31,7 +31,7 @@
 ### 🔨 Latest Pull Requests I published
 
 - [fix(ingestion/metabase): Fetch Dashboards through Collections ](https://github.com/datahub-project/datahub/pull/9631) on [datahub-project/datahub](https://github.com/datahub-project/datahub) (1 week ago)
-- [Publish gpg encryption article](https://github.com/7onn/7onn.github.io/pull/1) on [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) (1 week ago)
+- [Publish gpg encryption article](https://github.com/7onn/7onn.github.io/pull/1) on [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) (2 weeks ago)
 - [[tempo-distributed] Enable autoscaling for Compactor](https://github.com/grafana/helm-charts/pull/2817) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 month ago)
 - [Add GeoLite2](https://github.com/isabellaherman/bolhaclub/pull/3) on [isabellaherman/bolhaclub](https://github.com/isabellaherman/bolhaclub) (5 months ago)
 - [Upgrade Go and deps](https://github.com/pecigonzalo/loro/pull/92) on [pecigonzalo/loro](https://github.com/pecigonzalo/loro) (6 months ago)
@@ -44,7 +44,7 @@
 ### 📝 Some notes of my "blog"
 
 - [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (1 week ago)
-- [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (1 week ago)
+- [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (2 weeks ago)
 - [Efficiency and performance](https://www.7onn.dev/post/efficiency-and-performance/) (2 years ago)
 - [Provisioning](https://www.7onn.dev/post/provisioning/) (2 years ago)
 - [Demand forecasting and capacity planning](https://www.7onn.dev/post/demand-forecasting-and-capacity-planning/) (2 years ago)
