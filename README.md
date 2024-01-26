@@ -22,11 +22,11 @@
 
 ### 👷 Latest open source contributions
 
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack (today)
 - [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) - Personal website and content archive (1 week ago)
 - [7onn/.emacs.d](https://github.com/7onn/.emacs.d) - Personal GNU Emacs configuration (5 months ago)
 - [7onn/politicians-contacts](https://github.com/7onn/politicians-contacts) - Store and serve the list of Brazilian politicians and their official contact info (7 months ago)
 - [7onn/nginx-globe-gl](https://github.com/7onn/nginx-globe-gl) - Globe.gl visualization for NGINX access logs (8 months ago)
-- [tducasse/go-instabot](https://github.com/tducasse/go-instabot) - Automatically follow, like, and comment on instagram (9 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
@@ -38,6 +38,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.12.1](https://github.com/datahub-project/datahub/releases/tag/v0.12.1), 1 month ago) - The Metadata Platform for the Modern Data Stack
 - [7onn/helm-charts](https://github.com/7onn/helm-charts) ([gcp-idleness-exporter-1.0.1](https://github.com/7onn/helm-charts/releases/tag/gcp-idleness-exporter-1.0.1), 9 months ago) - Helm charts for Kubernetes
 - [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) ([v2.0.2](https://github.com/7onn/gcp-idleness-exporter/releases/tag/v2.0.2), 9 months ago) - Identify unused resources at Google Cloud Platform through Prometheus&#39; metrics
 
