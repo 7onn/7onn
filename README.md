@@ -9,28 +9,28 @@
 
 ### ⭐ Recently starred repositories
 
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) - Repository of helm charts for deploying DataHub on a Kubernetes cluster (2 days ago)
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack (2 days ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (6 days ago)
+- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) - Repository of helm charts for deploying DataHub on a Kubernetes cluster (3 days ago)
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack (3 days ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 week ago)
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer (1 week ago)
 - [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id&#39;s DOOM! (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
-- [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls (1 week ago)
+- [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls (2 weeks ago)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (2 weeks ago)
 - [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (2 weeks ago)
 - [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes (2 weeks ago)
 
 ### 👷 Latest open source contributions
 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack (2 days ago)
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack (3 days ago)
 - [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) - Personal website and content archive (2 weeks ago)
 - [7onn/.emacs.d](https://github.com/7onn/.emacs.d) - Personal GNU Emacs configuration (5 months ago)
 - [7onn/politicians-contacts](https://github.com/7onn/politicians-contacts) - Store and serve the list of Brazilian politicians and their official contact info (7 months ago)
-- [7onn/nginx-globe-gl](https://github.com/7onn/nginx-globe-gl) - Globe.gl visualization for NGINX access logs (8 months ago)
+- [7onn/nginx-globe-gl](https://github.com/7onn/nginx-globe-gl) - Globe.gl visualization for NGINX access logs (9 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
-- [fix(ingestion/metabase): Fetch Dashboards through Collections ](https://github.com/datahub-project/datahub/pull/9631) on [datahub-project/datahub](https://github.com/datahub-project/datahub) (1 week ago)
+- [fix(ingestion/metabase): Fetch Dashboards through Collections ](https://github.com/datahub-project/datahub/pull/9631) on [datahub-project/datahub](https://github.com/datahub-project/datahub) (2 weeks ago)
 - [Publish gpg encryption article](https://github.com/7onn/7onn.github.io/pull/1) on [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) (2 weeks ago)
 - [[tempo-distributed] Enable autoscaling for Compactor](https://github.com/grafana/helm-charts/pull/2817) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 month ago)
 - [Add GeoLite2](https://github.com/isabellaherman/bolhaclub/pull/3) on [isabellaherman/bolhaclub](https://github.com/isabellaherman/bolhaclub) (5 months ago)
