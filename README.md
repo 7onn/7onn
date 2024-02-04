@@ -16,8 +16,8 @@
 - [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id&#39;s DOOM! (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls (2 weeks ago)
-- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (2 weeks ago)
-- [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (2 weeks ago)
+- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (3 weeks ago)
+- [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (3 weeks ago)
 - [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes (3 weeks ago)
 
 ### 👷 Latest open source contributions
