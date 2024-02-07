@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia &#43; Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences (today)
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) - Repository of helm charts for deploying DataHub on a Kubernetes cluster (1 week ago)
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack (1 week ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 weeks ago)
@@ -18,7 +19,6 @@
 - [Shopify/kubeaudit](https://github.com/Shopify/kubeaudit) - kubeaudit helps you audit your Kubernetes clusters against common security controls (3 weeks ago)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (3 weeks ago)
 - [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes (3 weeks ago)
-- [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes (3 weeks ago)
 
 ### 👷 Latest open source contributions
 
