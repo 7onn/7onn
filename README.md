@@ -9,20 +9,20 @@
 
 ### ⭐ Recently starred repositories
 
-- [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data (1 day ago)
-- [typesense/typesense-python](https://github.com/typesense/typesense-python) - Python client for Typesense: https://github.com/typesense/typesense (1 day ago)
-- [typesense/typesense-go](https://github.com/typesense/typesense-go) - Go client for Typesense: https://github.com/typesense/typesense (1 day ago)
-- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia &#43; Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences (1 day ago)
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) - Repository of helm charts for deploying DataHub on a Kubernetes cluster (1 week ago)
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack (1 week ago)
+- [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data (2 days ago)
+- [typesense/typesense-python](https://github.com/typesense/typesense-python) - Python client for Typesense: https://github.com/typesense/typesense (2 days ago)
+- [typesense/typesense-go](https://github.com/typesense/typesense-go) - Go client for Typesense: https://github.com/typesense/typesense (2 days ago)
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia &#43; Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences (2 days ago)
+- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) - Repository of helm charts for deploying DataHub on a Kubernetes cluster (2 weeks ago)
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack (2 weeks ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 weeks ago)
-- [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer (2 weeks ago)
-- [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id&#39;s DOOM! (2 weeks ago)
+- [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer (3 weeks ago)
+- [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id&#39;s DOOM! (3 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 weeks ago)
 
 ### 👷 Latest open source contributions
 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack (1 week ago)
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack (2 weeks ago)
 - [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) - Personal website and content archive (3 weeks ago)
 - [7onn/.emacs.d](https://github.com/7onn/.emacs.d) - Personal GNU Emacs configuration (5 months ago)
 - [7onn/politicians-contacts](https://github.com/7onn/politicians-contacts) - Store and serve the list of Brazilian politicians and their official contact info (7 months ago)
@@ -44,7 +44,7 @@
 
 ### 📝 Some notes of my "blog"
 
-- [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (3 weeks ago)
+- [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (4 weeks ago)
 - [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (1 month ago)
 - [Efficiency and performance](https://www.7onn.dev/post/efficiency-and-performance/) (2 years ago)
 - [Provisioning](https://www.7onn.dev/post/provisioning/) (2 years ago)
