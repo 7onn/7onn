@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper (today)
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data (5 days ago)
 - [typesense/typesense-python](https://github.com/typesense/typesense-python) - Python client for Typesense: https://github.com/typesense/typesense (5 days ago)
 - [typesense/typesense-go](https://github.com/typesense/typesense-go) - Go client for Typesense: https://github.com/typesense/typesense (5 days ago)
@@ -18,7 +19,6 @@
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (3 weeks ago)
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer (3 weeks ago)
 - [storax/kubedoom](https://github.com/storax/kubedoom) - Kill Kubernetes pods by playing Id&#39;s DOOM! (3 weeks ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 weeks ago)
 
 ### 👷 Latest open source contributions
 
