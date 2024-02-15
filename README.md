@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper (2 days ago)
+- [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper (3 days ago)
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data (1 week ago)
 - [typesense/typesense-python](https://github.com/typesense/typesense-python) - Python client for Typesense: https://github.com/typesense/typesense (1 week ago)
 - [typesense/typesense-go](https://github.com/typesense/typesense-go) - Go client for Typesense: https://github.com/typesense/typesense (1 week ago)
