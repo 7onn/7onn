@@ -9,7 +9,8 @@
 
 ### ⭐ Recently starred repositories
 
-- [beecorrea/to-done](https://github.com/beecorrea/to-done) (2 days ago)
+- [quarylabs/quary](https://github.com/quarylabs/quary) - Transform data together. Model, test and deploy as a team. (1 day ago)
+- [beecorrea/to-done](https://github.com/beecorrea/to-done) (3 days ago)
 - [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper (1 week ago)
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data (2 weeks ago)
 - [typesense/typesense-python](https://github.com/typesense/typesense-python) - Python client for Typesense: https://github.com/typesense/typesense (2 weeks ago)
@@ -18,7 +19,6 @@
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) - Repository of helm charts for deploying DataHub on a Kubernetes cluster (3 weeks ago)
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data Stack (3 weeks ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 month ago)
-- [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer (1 month ago)
 
 ### 👷 Latest open source contributions
 
