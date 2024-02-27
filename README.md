@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [quarylabs/quary](https://github.com/quarylabs/quary) - Transform data together. Model, test and deploy as a team. (5 days ago)
+- [quarylabs/quary](https://github.com/quarylabs/quary) - Transform data together. Model, test and deploy as a team. (6 days ago)
 - [beecorrea/to-done](https://github.com/beecorrea/to-done) (1 week ago)
 - [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper (2 weeks ago)
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data (2 weeks ago)
