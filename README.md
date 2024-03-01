@@ -38,7 +38,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.12.1](https://github.com/datahub-project/datahub/releases/tag/v0.12.1), 2 months ago) - The Metadata Platform for your Data Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.0](https://github.com/datahub-project/datahub/releases/tag/v0.13.0), 1 day ago) - The Metadata Platform for your Data Stack
 - [7onn/helm-charts](https://github.com/7onn/helm-charts) ([gcp-idleness-exporter-1.0.1](https://github.com/7onn/helm-charts/releases/tag/gcp-idleness-exporter-1.0.1), 10 months ago) - Helm charts for Kubernetes
 - [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) ([v2.0.2](https://github.com/7onn/gcp-idleness-exporter/releases/tag/v2.0.2), 10 months ago) - Identify unused resources at Google Cloud Platform through Prometheus&#39; metrics
 
