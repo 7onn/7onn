@@ -10,8 +10,8 @@
 ### ⭐ Recently starred repositories
 
 - [quarylabs/quary](https://github.com/quarylabs/quary) - Transform data together. Model, test and deploy as a team. (1 week ago)
-- [beecorrea/to-done](https://github.com/beecorrea/to-done) (1 week ago)
-- [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper (2 weeks ago)
+- [beecorrea/to-done](https://github.com/beecorrea/to-done) (2 weeks ago)
+- [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper (3 weeks ago)
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data (3 weeks ago)
 - [typesense/typesense-python](https://github.com/typesense/typesense-python) - Python client for Typesense: https://github.com/typesense/typesense (3 weeks ago)
 - [typesense/typesense-go](https://github.com/typesense/typesense-go) - Go client for Typesense: https://github.com/typesense/typesense (3 weeks ago)
@@ -38,7 +38,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.0](https://github.com/datahub-project/datahub/releases/tag/v0.13.0), 3 days ago) - The Metadata Platform for your Data Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.0](https://github.com/datahub-project/datahub/releases/tag/v0.13.0), 4 days ago) - The Metadata Platform for your Data Stack
 - [7onn/helm-charts](https://github.com/7onn/helm-charts) ([gcp-idleness-exporter-1.0.1](https://github.com/7onn/helm-charts/releases/tag/gcp-idleness-exporter-1.0.1), 11 months ago) - Helm charts for Kubernetes
 - [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) ([v2.0.2](https://github.com/7onn/gcp-idleness-exporter/releases/tag/v2.0.2), 11 months ago) - Identify unused resources at Google Cloud Platform through Prometheus&#39; metrics
 
