@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (today)
 - [quarylabs/quary](https://github.com/quarylabs/quary) - Transform data together. Model, test and deploy as a team. (1 week ago)
 - [beecorrea/to-done](https://github.com/beecorrea/to-done) (2 weeks ago)
 - [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper (3 weeks ago)
@@ -18,7 +19,6 @@
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia &#43; Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences (3 weeks ago)
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) - Repository of helm charts for deploying DataHub on a Kubernetes cluster (1 month ago)
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data Stack (1 month ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 month ago)
 
 ### 👷 Latest open source contributions
 
