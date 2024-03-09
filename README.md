@@ -9,8 +9,8 @@
 
 ### ⭐ Recently starred repositories
 
-- [cnvrg/metagpu](https://github.com/cnvrg/metagpu) - K8s device plugin for GPU sharing   (2 days ago)
-- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (3 days ago)
+- [cnvrg/metagpu](https://github.com/cnvrg/metagpu) - K8s device plugin for GPU sharing   (3 days ago)
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (4 days ago)
 - [quarylabs/quary](https://github.com/quarylabs/quary) - Transform data together. Model, test and deploy as a team. (2 weeks ago)
 - [beecorrea/to-done](https://github.com/beecorrea/to-done) (2 weeks ago)
 - [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper (3 weeks ago)
@@ -31,7 +31,7 @@
 ### 🔨 Latest Pull Requests I published
 
 - [fix(ingestion/metabase): Fetch Dashboards through Collections ](https://github.com/datahub-project/datahub/pull/9631) on [datahub-project/datahub](https://github.com/datahub-project/datahub) (1 month ago)
-- [Publish gpg encryption article](https://github.com/7onn/7onn.github.io/pull/1) on [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) (1 month ago)
+- [Publish gpg encryption article](https://github.com/7onn/7onn.github.io/pull/1) on [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) (2 months ago)
 - [[tempo-distributed] Enable autoscaling for Compactor](https://github.com/grafana/helm-charts/pull/2817) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 months ago)
 - [Add GeoLite2](https://github.com/isabellaherman/bolhaclub/pull/3) on [isabellaherman/bolhaclub](https://github.com/isabellaherman/bolhaclub) (6 months ago)
 - [Upgrade Go and deps](https://github.com/pecigonzalo/loro/pull/92) on [pecigonzalo/loro](https://github.com/pecigonzalo/loro) (7 months ago)
@@ -45,7 +45,7 @@
 ### 📝 Some notes of my "blog"
 
 - [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (1 month ago)
-- [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (1 month ago)
+- [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (2 months ago)
 - [Efficiency and performance](https://www.7onn.dev/post/efficiency-and-performance/) (2 years ago)
 - [Provisioning](https://www.7onn.dev/post/provisioning/) (2 years ago)
 - [Demand forecasting and capacity planning](https://www.7onn.dev/post/demand-forecasting-and-capacity-planning/) (2 years ago)
