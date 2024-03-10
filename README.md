@@ -9,9 +9,9 @@
 
 ### ⭐ Recently starred repositories
 
-- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (today)
-- [cnvrg/metagpu](https://github.com/cnvrg/metagpu) - K8s device plugin for GPU sharing   (3 days ago)
-- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (4 days ago)
+- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (1 day ago)
+- [cnvrg/metagpu](https://github.com/cnvrg/metagpu) - K8s device plugin for GPU sharing   (4 days ago)
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (5 days ago)
 - [quarylabs/quary](https://github.com/quarylabs/quary) - Transform data together. Model, test and deploy as a team. (2 weeks ago)
 - [beecorrea/to-done](https://github.com/beecorrea/to-done) (2 weeks ago)
 - [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper (3 weeks ago)
