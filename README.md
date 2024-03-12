@@ -9,9 +9,9 @@
 
 ### ⭐ Recently starred repositories
 
-- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (2 days ago)
-- [cnvrg/metagpu](https://github.com/cnvrg/metagpu) - K8s device plugin for GPU sharing   (5 days ago)
-- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (6 days ago)
+- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (3 days ago)
+- [cnvrg/metagpu](https://github.com/cnvrg/metagpu) - K8s device plugin for GPU sharing   (6 days ago)
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (1 week ago)
 - [quarylabs/quary](https://github.com/quarylabs/quary) - Transform data together. Model, test and deploy as a team. (2 weeks ago)
 - [beecorrea/to-done](https://github.com/beecorrea/to-done) (3 weeks ago)
 - [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper (4 weeks ago)
@@ -22,10 +22,10 @@
 
 ### 👷 Latest open source contributions
 
+- [7onn/politicians-contacts](https://github.com/7onn/politicians-contacts) - Store and serve the list of Brazilian politicians and their official contact info (1 day ago)
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data Stack (1 month ago)
 - [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) - Personal website and content archive (1 month ago)
 - [7onn/.emacs.d](https://github.com/7onn/.emacs.d) - Personal GNU Emacs configuration (6 months ago)
-- [7onn/politicians-contacts](https://github.com/7onn/politicians-contacts) - Store and serve the list of Brazilian politicians and their official contact info (8 months ago)
 - [7onn/nginx-globe-gl](https://github.com/7onn/nginx-globe-gl) - Globe.gl visualization for NGINX access logs (10 months ago)
 
 ### 🔨 Latest Pull Requests I published
@@ -44,7 +44,7 @@
 
 ### 📝 Some notes of my "blog"
 
-- [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (1 month ago)
+- [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (2 months ago)
 - [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (2 months ago)
 - [Efficiency and performance](https://www.7onn.dev/post/efficiency-and-performance/) (2 years ago)
 - [Provisioning](https://www.7onn.dev/post/provisioning/) (2 years ago)
