@@ -13,7 +13,7 @@
 - [cnvrg/metagpu](https://github.com/cnvrg/metagpu) - K8s device plugin for GPU sharing   (1 week ago)
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (1 week ago)
 - [quarylabs/quary](https://github.com/quarylabs/quary) - Transform data together. Model, test and deploy as a team. (3 weeks ago)
-- [beecorrea/to-done](https://github.com/beecorrea/to-done) (3 weeks ago)
+- [beecorrea/to-done](https://github.com/beecorrea/to-done) (4 weeks ago)
 - [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper (1 month ago)
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data (1 month ago)
 - [typesense/typesense-python](https://github.com/typesense/typesense-python) - Python client for Typesense: https://github.com/typesense/typesense (1 month ago)
@@ -22,7 +22,7 @@
 
 ### 👷 Latest open source contributions
 
-- [7onn/politicians-contacts](https://github.com/7onn/politicians-contacts) - Store and serve the list of Brazilian politicians and their official contact info (6 days ago)
+- [7onn/politicians-contacts](https://github.com/7onn/politicians-contacts) - Store and serve the list of Brazilian politicians and their official contact info (1 week ago)
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data Stack (1 month ago)
 - [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) - Personal website and content archive (2 months ago)
 - [7onn/.emacs.d](https://github.com/7onn/.emacs.d) - Personal GNU Emacs configuration (6 months ago)
