@@ -9,13 +9,13 @@
 
 ### ⭐ Recently starred repositories
 
-- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (1 day ago)
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (1 day ago)
+- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (2 days ago)
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (2 days ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (1 week ago)
-- [cnvrg/metagpu](https://github.com/cnvrg/metagpu) - K8s device plugin for GPU sharing   (1 week ago)
+- [cnvrg/metagpu](https://github.com/cnvrg/metagpu) - K8s device plugin for GPU sharing   (2 weeks ago)
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (2 weeks ago)
-- [quarylabs/quary](https://github.com/quarylabs/quary) - Transform data together. Model, test and deploy as a team. (3 weeks ago)
-- [beecorrea/to-done](https://github.com/beecorrea/to-done) (4 weeks ago)
+- [quarylabs/quary](https://github.com/quarylabs/quary) - Transform data together. Model, test and deploy as a team. (4 weeks ago)
+- [beecorrea/to-done](https://github.com/beecorrea/to-done) (1 month ago)
 - [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper (1 month ago)
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data (1 month ago)
 - [typesense/typesense-python](https://github.com/typesense/typesense-python) - Python client for Typesense: https://github.com/typesense/typesense (1 month ago)
