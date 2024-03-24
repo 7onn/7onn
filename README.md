@@ -9,8 +9,8 @@
 
 ### ⭐ Recently starred repositories
 
-- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (5 days ago)
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (5 days ago)
+- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (6 days ago)
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (6 days ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (2 weeks ago)
 - [cnvrg/metagpu](https://github.com/cnvrg/metagpu) - K8s device plugin for GPU sharing   (2 weeks ago)
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (2 weeks ago)
@@ -22,7 +22,7 @@
 
 ### 👷 Latest open source contributions
 
-- [7onn/docs-manager](https://github.com/7onn/docs-manager) -  (today)
+- [7onn/docs-manager](https://github.com/7onn/docs-manager) -  (1 day ago)
 - [7onn/politicians-contacts](https://github.com/7onn/politicians-contacts) - Store and serve the list of Brazilian politicians and their official contact info (1 week ago)
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data Stack (1 month ago)
 - [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) - Personal website and content archive (2 months ago)
