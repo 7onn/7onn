@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer (today)
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (1 week ago)
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (1 week ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (2 weeks ago)
@@ -18,7 +19,6 @@
 - [beecorrea/to-done](https://github.com/beecorrea/to-done) (1 month ago)
 - [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper (1 month ago)
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data (1 month ago)
-- [typesense/typesense-python](https://github.com/typesense/typesense-python) - Python client for Typesense: https://github.com/typesense/typesense (1 month ago)
 
 ### 👷 Latest open source contributions
 
