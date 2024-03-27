@@ -9,6 +9,8 @@
 
 ### ⭐ Recently starred repositories
 
+- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane (today)
+- [chicochico/dofi](https://github.com/chicochico/dofi) - config files (today)
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer (2 days ago)
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (1 week ago)
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (1 week ago)
@@ -17,8 +19,6 @@
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (3 weeks ago)
 - [quarylabs/quary](https://github.com/quarylabs/quary) - Transform data together. Model, test and deploy as a team. (1 month ago)
 - [beecorrea/to-done](https://github.com/beecorrea/to-done) (1 month ago)
-- [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper (1 month ago)
-- [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data (1 month ago)
 
 ### 👷 Latest open source contributions
 
