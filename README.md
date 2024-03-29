@@ -9,9 +9,9 @@
 
 ### ⭐ Recently starred repositories
 
-- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane (1 day ago)
-- [chicochico/dofi](https://github.com/chicochico/dofi) - config files (1 day ago)
-- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer (3 days ago)
+- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane (2 days ago)
+- [chicochico/dofi](https://github.com/chicochico/dofi) - config files (2 days ago)
+- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer (4 days ago)
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (1 week ago)
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (1 week ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (2 weeks ago)
@@ -22,7 +22,7 @@
 
 ### 👷 Latest open source contributions
 
-- [7onn/docs-manager](https://github.com/7onn/docs-manager) -  (4 days ago)
+- [7onn/docs-manager](https://github.com/7onn/docs-manager) -  (5 days ago)
 - [7onn/politicians-contacts](https://github.com/7onn/politicians-contacts) - Store and serve the list of Brazilian politicians and their official contact info (2 weeks ago)
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data Stack (2 months ago)
 - [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) - Personal website and content archive (2 months ago)
@@ -38,7 +38,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.0](https://github.com/datahub-project/datahub/releases/tag/v0.13.0), 4 weeks ago) - The Metadata Platform for your Data Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.1rc1](https://github.com/datahub-project/datahub/releases/tag/v0.13.1rc1), 1 day ago) - The Metadata Platform for your Data Stack
 - [7onn/helm-charts](https://github.com/7onn/helm-charts) ([gcp-idleness-exporter-1.0.1](https://github.com/7onn/helm-charts/releases/tag/gcp-idleness-exporter-1.0.1), 11 months ago) - Helm charts for Kubernetes
 - [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) ([v2.0.2](https://github.com/7onn/gcp-idleness-exporter/releases/tag/v2.0.2), 11 months ago) - Identify unused resources at Google Cloud Platform through Prometheus&#39; metrics
 
