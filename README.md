@@ -16,7 +16,7 @@
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (2 weeks ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (3 weeks ago)
 - [cnvrg/metagpu](https://github.com/cnvrg/metagpu) - K8s device plugin for GPU sharing   (4 weeks ago)
-- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (4 weeks ago)
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (1 month ago)
 - [quarylabs/quary](https://github.com/quarylabs/quary) - Transform data together. Model, test and deploy as a team. (1 month ago)
 - [beecorrea/to-done](https://github.com/beecorrea/to-done) (1 month ago)
 
@@ -38,7 +38,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.1](https://github.com/datahub-project/datahub/releases/tag/v0.13.1), 1 day ago) - The Metadata Platform for your Data Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.1](https://github.com/datahub-project/datahub/releases/tag/v0.13.1), 2 days ago) - The Metadata Platform for your Data Stack
 - [7onn/helm-charts](https://github.com/7onn/helm-charts) ([gcp-idleness-exporter-1.0.1](https://github.com/7onn/helm-charts/releases/tag/gcp-idleness-exporter-1.0.1), 1 year ago) - Helm charts for Kubernetes
 - [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) ([v2.0.2](https://github.com/7onn/gcp-idleness-exporter/releases/tag/v2.0.2), 1 year ago) - Identify unused resources at Google Cloud Platform through Prometheus&#39; metrics
 
