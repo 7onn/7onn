@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (today)
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (5 days ago)
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane (1 week ago)
 - [chicochico/dofi](https://github.com/chicochico/dofi) - config files (1 week ago)
@@ -18,7 +19,6 @@
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (1 month ago)
 - [cnvrg/metagpu](https://github.com/cnvrg/metagpu) - K8s device plugin for GPU sharing   (1 month ago)
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (1 month ago)
-- [quarylabs/quary](https://github.com/quarylabs/quary) - Transform data together. Model, test and deploy as a team. (1 month ago)
 
 ### 👷 Latest open source contributions
 
