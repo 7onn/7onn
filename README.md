@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (4 days ago)
+- [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (5 days ago)
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane (1 week ago)
 - [chicochico/dofi](https://github.com/chicochico/dofi) - config files (1 week ago)
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer (2 weeks ago)
@@ -38,7 +38,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.1](https://github.com/datahub-project/datahub/releases/tag/v0.13.1), 6 days ago) - The Metadata Platform for your Data Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.1](https://github.com/datahub-project/datahub/releases/tag/v0.13.1), 1 week ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
 
