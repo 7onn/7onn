@@ -12,11 +12,6 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
 
-### 👷 Latest open source contributions
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
 ### 🔨 Latest Pull Requests I published
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
