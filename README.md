@@ -9,10 +9,10 @@
 
 ### ⭐ Recently starred repositories
 
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (today)
-- [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (5 days ago)
-- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane (1 week ago)
-- [chicochico/dofi](https://github.com/chicochico/dofi) - config files (1 week ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (1 day ago)
+- [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (6 days ago)
+- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane (2 weeks ago)
+- [chicochico/dofi](https://github.com/chicochico/dofi) - config files (2 weeks ago)
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer (2 weeks ago)
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (3 weeks ago)
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (3 weeks ago)
@@ -23,7 +23,7 @@
 ### 👷 Latest open source contributions
 
 - [7onn/docs-manager](https://github.com/7onn/docs-manager) -  (1 day ago)
-- [7onn/politicians-contacts](https://github.com/7onn/politicians-contacts) - Store and serve the list of Brazilian politicians and their official contact info (4 weeks ago)
+- [7onn/politicians-contacts](https://github.com/7onn/politicians-contacts) - Store and serve the list of Brazilian politicians and their official contact info (1 month ago)
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data Stack (2 months ago)
 - [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) - Personal website and content archive (2 months ago)
 - [7onn/.emacs.d](https://github.com/7onn/.emacs.d) - Personal GNU Emacs configuration (7 months ago)
