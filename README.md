@@ -20,14 +20,6 @@
 - [cnvrg/metagpu](https://github.com/cnvrg/metagpu) - K8s device plugin for GPU sharing   (1 month ago)
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io) (1 month ago)
 
-### 👷 Latest open source contributions
-
-- [7onn/docs-manager](https://github.com/7onn/docs-manager) -  (today)
-- [7onn/politicians-contacts](https://github.com/7onn/politicians-contacts) - Store and serve the list of Brazilian politicians and their official contact info (1 month ago)
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data Stack (2 months ago)
-- [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) - Personal website and content archive (2 months ago)
-- [7onn/.emacs.d](https://github.com/7onn/.emacs.d) - Personal GNU Emacs configuration (7 months ago)
-
 ### 🔨 Latest Pull Requests I published
 
 - [fix(ingestion/metabase): Fetch Dashboards through Collections ](https://github.com/datahub-project/datahub/pull/9631) on [datahub-project/datahub](https://github.com/datahub-project/datahub) (2 months ago)
