@@ -9,8 +9,8 @@
 
 ### ⭐ Recently starred repositories
 
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (1 day ago)
-- [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (6 days ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (2 days ago)
+- [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (1 week ago)
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane (2 weeks ago)
 - [chicochico/dofi](https://github.com/chicochico/dofi) - config files (2 weeks ago)
 - [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer (2 weeks ago)
@@ -34,7 +34,7 @@
 
 ### 📝 Some notes of my "blog"
 
-- [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (2 months ago)
+- [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (3 months ago)
 - [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (3 months ago)
 - [Efficiency and performance](https://www.7onn.dev/post/efficiency-and-performance/) (2 years ago)
 - [Provisioning](https://www.7onn.dev/post/provisioning/) (2 years ago)
