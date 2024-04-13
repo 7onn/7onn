@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (3 days ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (4 days ago)
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (1 week ago)
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane (2 weeks ago)
 - [chicochico/dofi](https://github.com/chicochico/dofi) - config files (2 weeks ago)
