@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [invenhost/inventree_droplet](https://github.com/invenhost/inventree_droplet) - DigitalOcean Droplet for InvenTree (today)
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System (1 day ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (1 week ago)
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (1 week ago)
@@ -18,7 +19,6 @@
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (1 month ago)
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (1 month ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (1 month ago)
-- [cnvrg/metagpu](https://github.com/cnvrg/metagpu) - K8s device plugin for GPU sharing   (1 month ago)
 
 ### 🔨 Latest Pull Requests I published
 
