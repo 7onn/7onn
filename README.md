@@ -9,13 +9,13 @@
 
 ### ⭐ Recently starred repositories
 
-- [invenhost/inventree_droplet](https://github.com/invenhost/inventree_droplet) - DigitalOcean Droplet for InvenTree (4 days ago)
-- [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System (5 days ago)
+- [invenhost/inventree_droplet](https://github.com/invenhost/inventree_droplet) - DigitalOcean Droplet for InvenTree (5 days ago)
+- [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System (6 days ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (1 week ago)
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (2 weeks ago)
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane (3 weeks ago)
 - [chicochico/dofi](https://github.com/chicochico/dofi) - config files (3 weeks ago)
-- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer (3 weeks ago)
+- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer (4 weeks ago)
 - [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (1 month ago)
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework. (1 month ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (1 month ago)
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.2](https://github.com/datahub-project/datahub/releases/tag/v0.13.2), 5 days ago) - The Metadata Platform for your Data Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.2](https://github.com/datahub-project/datahub/releases/tag/v0.13.2), 6 days ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
 
