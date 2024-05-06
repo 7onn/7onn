@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions (5 days ago)
+- [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions (6 days ago)
 - [invenhost/inventree_droplet](https://github.com/invenhost/inventree_droplet) - DigitalOcean Droplet for InvenTree (2 weeks ago)
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System (2 weeks ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (3 weeks ago)
