@@ -9,6 +9,8 @@
 
 ### ⭐ Recently starred repositories
 
+- [MeiK2333/github-style](https://github.com/MeiK2333/github-style) (today)
+- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact. (today)
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (1 day ago)
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions (2 weeks ago)
 - [invenhost/inventree_droplet](https://github.com/invenhost/inventree_droplet) - DigitalOcean Droplet for InvenTree (4 weeks ago)
@@ -17,8 +19,6 @@
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (1 month ago)
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane (1 month ago)
 - [chicochico/dofi](https://github.com/chicochico/dofi) - config files (1 month ago)
-- [tphakala/birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer (1 month ago)
-- [lindell/multi-gitter](https://github.com/lindell/multi-gitter) - Update multiple repositories in with one command (1 month ago)
 
 ### 🔨 Latest Pull Requests I published
 
