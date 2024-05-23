@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.2](https://github.com/datahub-project/datahub/releases/tag/v0.13.2), 1 month ago) - The Metadata Platform for your Data Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.3rc1](https://github.com/datahub-project/datahub/releases/tag/v0.13.3rc1), today) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
 
