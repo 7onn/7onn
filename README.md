@@ -17,8 +17,8 @@
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System (1 month ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (1 month ago)
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (1 month ago)
-- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane (1 month ago)
-- [chicochico/dofi](https://github.com/chicochico/dofi) - config files (1 month ago)
+- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane (2 months ago)
+- [chicochico/dofi](https://github.com/chicochico/dofi) - config files (2 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.3](https://github.com/datahub-project/datahub/releases/tag/v0.13.3), 2 days ago) - The Metadata Platform for your Data Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.3](https://github.com/datahub-project/datahub/releases/tag/v0.13.3), 3 days ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
 
