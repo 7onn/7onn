@@ -9,8 +9,8 @@
 
 ### ⭐ Recently starred repositories
 
-- [MeiK2333/github-style](https://github.com/MeiK2333/github-style) (2 weeks ago)
-- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact. (2 weeks ago)
+- [MeiK2333/github-style](https://github.com/MeiK2333/github-style) (3 weeks ago)
+- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact. (3 weeks ago)
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (3 weeks ago)
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions (1 month ago)
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System (1 month ago)
