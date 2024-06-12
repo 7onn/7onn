@@ -9,10 +9,10 @@
 
 ### ⭐ Recently starred repositories
 
-- [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python (5 days ago)
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks. (5 days ago)
-- [MeiK2333/github-style](https://github.com/MeiK2333/github-style) (3 weeks ago)
-- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact. (3 weeks ago)
+- [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python (6 days ago)
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks. (6 days ago)
+- [MeiK2333/github-style](https://github.com/MeiK2333/github-style) (4 weeks ago)
+- [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact. (4 weeks ago)
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (4 weeks ago)
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions (1 month ago)
 - [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System (1 month ago)
