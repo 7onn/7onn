@@ -15,7 +15,7 @@
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact. (1 month ago)
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (1 month ago)
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions (1 month ago)
-- [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System (1 month ago)
+- [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System (2 months ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (2 months ago)
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management (2 months ago)
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane (2 months ago)
@@ -26,7 +26,7 @@
 - [Publish gpg encryption article](https://github.com/7onn/7onn.github.io/pull/1) on [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) (5 months ago)
 - [[tempo-distributed] Enable autoscaling for Compactor](https://github.com/grafana/helm-charts/pull/2817) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (6 months ago)
 - [Add GeoLite2](https://github.com/isabellaherman/bolhaclub/pull/3) on [isabellaherman/bolhaclub](https://github.com/isabellaherman/bolhaclub) (9 months ago)
-- [Upgrade Go and deps](https://github.com/pecigonzalo/loro/pull/92) on [pecigonzalo/loro](https://github.com/pecigonzalo/loro) (10 months ago)
+- [Upgrade Go and deps](https://github.com/pecigonzalo/loro/pull/92) on [pecigonzalo/loro](https://github.com/pecigonzalo/loro) (11 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
