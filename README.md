@@ -9,8 +9,8 @@
 
 ### ⭐ Recently starred repositories
 
-- [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python (1 week ago)
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks. (1 week ago)
+- [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python (2 weeks ago)
+- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks. (2 weeks ago)
 - [MeiK2333/github-style](https://github.com/MeiK2333/github-style) (1 month ago)
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact. (1 month ago)
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (1 month ago)
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.3](https://github.com/datahub-project/datahub/releases/tag/v0.13.3), 3 weeks ago) - The Metadata Platform for your Data Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.3](https://github.com/datahub-project/datahub/releases/tag/v0.13.3), 4 weeks ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
 
