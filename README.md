@@ -1,6 +1,6 @@
 ### Hey there, I'm Tom and..
 
-- 🔭👨‍💻⚙💻 I’m currently working at the Trade Republic
+- 👨‍💻 I’m currently working at the Trade Republic
 - 🌱 I’m currently learning about ~~distributed software~~ everything I find reasonable to get to know
 - 👯 I’m looking to collaborate on interesting or socially benevolent projects
 - 💬 Ask me about Kubernetes and the observability in cloud architectures
