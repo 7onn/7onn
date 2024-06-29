@@ -9,16 +9,16 @@
 
 ### ⭐ Recently starred repositories
 
-- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python (today)
-- [intelligentnode/IntelliServer](https://github.com/intelligentnode/IntelliServer) - AI models as scalable microservices, enabling evaluation of LLMs and offering end-to-end functions such as chatbot, semantic search, image generation and beyond. (today)
-- [hank-ai/darknet](https://github.com/hank-ai/darknet) - Darknet/YOLO object detection framework (today)
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python (1 day ago)
+- [intelligentnode/IntelliServer](https://github.com/intelligentnode/IntelliServer) - AI models as scalable microservices, enabling evaluation of LLMs and offering end-to-end functions such as chatbot, semantic search, image generation and beyond. (1 day ago)
+- [hank-ai/darknet](https://github.com/hank-ai/darknet) - Darknet/YOLO object detection framework (1 day ago)
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line. (1 week ago)
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python (3 weeks ago)
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks. (3 weeks ago)
 - [MeiK2333/github-style](https://github.com/MeiK2333/github-style) (1 month ago)
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact. (1 month ago)
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (1 month ago)
-- [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions (1 month ago)
+- [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions (2 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
