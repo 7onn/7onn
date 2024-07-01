@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (today)
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python (3 days ago)
 - [intelligentnode/IntelliServer](https://github.com/intelligentnode/IntelliServer) - AI models as scalable microservices, enabling evaluation of LLMs and offering end-to-end functions such as chatbot, semantic search, image generation and beyond. (3 days ago)
 - [hank-ai/darknet](https://github.com/hank-ai/darknet) - Darknet/YOLO object detection framework (3 days ago)
@@ -18,7 +19,6 @@
 - [MeiK2333/github-style](https://github.com/MeiK2333/github-style) (1 month ago)
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact. (1 month ago)
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (1 month ago)
-- [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions (2 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
