@@ -9,9 +9,9 @@
 
 ### ⭐ Recently starred repositories
 
-- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python (2 days ago)
-- [intelligentnode/IntelliServer](https://github.com/intelligentnode/IntelliServer) - AI models as scalable microservices, enabling evaluation of LLMs and offering end-to-end functions such as chatbot, semantic search, image generation and beyond. (2 days ago)
-- [hank-ai/darknet](https://github.com/hank-ai/darknet) - Darknet/YOLO object detection framework (2 days ago)
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python (3 days ago)
+- [intelligentnode/IntelliServer](https://github.com/intelligentnode/IntelliServer) - AI models as scalable microservices, enabling evaluation of LLMs and offering end-to-end functions such as chatbot, semantic search, image generation and beyond. (3 days ago)
+- [hank-ai/darknet](https://github.com/hank-ai/darknet) - Darknet/YOLO object detection framework (3 days ago)
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line. (1 week ago)
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python (3 weeks ago)
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks. (3 weeks ago)
