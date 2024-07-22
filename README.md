@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (2 weeks ago)
+- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (3 weeks ago)
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python (3 weeks ago)
 - [intelligentnode/IntelliServer](https://github.com/intelligentnode/IntelliServer) - AI models as scalable microservices, enabling evaluation of LLMs and offering end-to-end functions such as chatbot, semantic search, image generation and beyond. (3 weeks ago)
 - [hank-ai/darknet](https://github.com/hank-ai/darknet) - Darknet/YOLO object detection framework (3 weeks ago)
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.3](https://github.com/datahub-project/datahub/releases/tag/v0.13.3), 1 month ago) - The Metadata Platform for your Data Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.3](https://github.com/datahub-project/datahub/releases/tag/v0.13.3), 2 months ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
 
