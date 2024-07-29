@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (3 weeks ago)
+- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (4 weeks ago)
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python (1 month ago)
 - [intelligentnode/IntelliServer](https://github.com/intelligentnode/IntelliServer) - AI models as scalable microservices, enabling evaluation of LLMs and offering end-to-end functions such as chatbot, semantic search, image generation and beyond. (1 month ago)
 - [hank-ai/darknet](https://github.com/hank-ai/darknet) - Darknet/YOLO object detection framework (1 month ago)
