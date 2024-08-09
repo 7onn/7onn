@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa) - 🌐 A fast and simple to use abstraction over Selenium (3 days ago)
+- [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa) - 🌐 A fast and simple to use abstraction over Selenium (4 days ago)
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave (1 week ago)
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.   (1 week ago)
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (1 month ago)
@@ -30,12 +30,12 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.16.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.16.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.2), 1 day ago) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.13.3](https://github.com/datahub-project/datahub/releases/tag/v0.13.3), 2 months ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
 
-- [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (6 months ago)
+- [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (7 months ago)
 - [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (7 months ago)
 - [Efficiency and performance](https://www.7onn.dev/post/efficiency-and-performance/) (2 years ago)
 - [Provisioning](https://www.7onn.dev/post/provisioning/) (2 years ago)
