@@ -10,7 +10,7 @@
 ### ⭐ Recently starred repositories
 
 - [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa) - 🌐 A fast and simple to use abstraction over Selenium (1 week ago)
-- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave (1 week ago)
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave (2 weeks ago)
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.   (2 weeks ago)
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (1 month ago)
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python (1 month ago)
@@ -30,8 +30,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.12](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.12), today) - 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.0](https://github.com/datahub-project/datahub/releases/tag/v0.14.0), 1 day ago) - The Metadata Platform for your Data Stack
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.12](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.12), 1 day ago) - 
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.0](https://github.com/datahub-project/datahub/releases/tag/v0.14.0), 2 days ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
 
