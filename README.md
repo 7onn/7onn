@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud (today)
+- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud (1 day ago)
 - [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa) - 🌐 A fast and simple to use abstraction over Selenium (1 week ago)
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave (2 weeks ago)
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.   (2 weeks ago)
@@ -30,8 +30,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.17.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.17.0), today) - 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.0](https://github.com/datahub-project/datahub/releases/tag/v0.14.0), 3 days ago) - The Metadata Platform for your Data Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.0.1](https://github.com/datahub-project/datahub/releases/tag/v0.14.0.1), 1 day ago) - The Metadata Platform for your Data Stack
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.0.0](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.0.0), 1 day ago) - 
 
 ### 📝 Some notes of my "blog"
 
