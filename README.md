@@ -30,8 +30,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.9.8](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.8), 1 day ago) - 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.0.1](https://github.com/datahub-project/datahub/releases/tag/v0.14.0.1), 5 days ago) - The Metadata Platform for your Data Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.0.2](https://github.com/datahub-project/datahub/releases/tag/v0.14.0.2), today) - The Metadata Platform for your Data Stack
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.9.9](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.9), today) - 
 
 ### 📝 Some notes of my "blog"
 
