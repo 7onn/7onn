@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim (today)
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud (1 week ago)
 - [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa) - 🌐 A fast and simple to use abstraction over Selenium (2 weeks ago)
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave (3 weeks ago)
@@ -18,7 +19,6 @@
 - [intelligentnode/IntelliServer](https://github.com/intelligentnode/IntelliServer) - AI models as scalable microservices, enabling evaluation of LLMs and offering end-to-end functions such as chatbot, semantic search, image generation and beyond. (1 month ago)
 - [hank-ai/darknet](https://github.com/hank-ai/darknet) - Darknet/YOLO object detection framework (1 month ago)
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line. (2 months ago)
-- [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python (2 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
