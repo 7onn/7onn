@@ -9,7 +9,8 @@
 
 ### ⭐ Recently starred repositories
 
-- [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim (today)
+- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (1 day ago)
+- [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim (1 day ago)
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud (1 week ago)
 - [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa) - 🌐 A fast and simple to use abstraction over Selenium (2 weeks ago)
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave (3 weeks ago)
@@ -18,7 +19,6 @@
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python (1 month ago)
 - [intelligentnode/IntelliServer](https://github.com/intelligentnode/IntelliServer) - AI models as scalable microservices, enabling evaluation of LLMs and offering end-to-end functions such as chatbot, semantic search, image generation and beyond. (1 month ago)
 - [hank-ai/darknet](https://github.com/hank-ai/darknet) - Darknet/YOLO object detection framework (1 month ago)
-- [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line. (2 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
@@ -30,8 +30,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.6.1](https://github.com/grafana/helm-charts/releases/tag/alloy-0.6.1), today) - 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.0.2](https://github.com/datahub-project/datahub/releases/tag/v0.14.0.2), 2 days ago) - The Metadata Platform for your Data Stack
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.9.13](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.13), 1 day ago) - 
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.0.2](https://github.com/datahub-project/datahub/releases/tag/v0.14.0.2), 3 days ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
 
