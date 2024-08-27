@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua (today)
 - [IvanJosipovic/ingress-nginx-validate-jwt](https://github.com/IvanJosipovic/ingress-nginx-validate-jwt) - Enables Kubernetes ingress-nginx to validate JWT tokens (1 day ago)
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (4 days ago)
 - [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim (4 days ago)
@@ -18,7 +19,6 @@
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.   (4 weeks ago)
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (1 month ago)
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python (2 months ago)
-- [intelligentnode/IntelliServer](https://github.com/intelligentnode/IntelliServer) - AI models as scalable microservices, enabling evaluation of LLMs and offering end-to-end functions such as chatbot, semantic search, image generation and beyond. (2 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.9.16](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.16), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.5.0-weekly.305](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.5.0-weekly.305), today) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.0.2](https://github.com/datahub-project/datahub/releases/tag/v0.14.0.2), 6 days ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
