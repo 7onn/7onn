@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (2 days ago)
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (3 days ago)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (1 week ago)
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua (1 week ago)
 - [IvanJosipovic/ingress-nginx-validate-jwt](https://github.com/IvanJosipovic/ingress-nginx-validate-jwt) - Enables Kubernetes ingress-nginx to validate JWT tokens (1 week ago)
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.4.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.4.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.0), 1 day ago) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.0.2](https://github.com/datahub-project/datahub/releases/tag/v0.14.0.2), 2 weeks ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
