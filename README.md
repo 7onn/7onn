@@ -9,16 +9,16 @@
 
 ### ⭐ Recently starred repositories
 
-- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (4 days ago)
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (1 day ago)
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (5 days ago)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (1 week ago)
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua (1 week ago)
-- [IvanJosipovic/ingress-nginx-validate-jwt](https://github.com/IvanJosipovic/ingress-nginx-validate-jwt) - Enables Kubernetes ingress-nginx to validate JWT tokens (1 week ago)
+- [IvanJosipovic/ingress-nginx-validate-jwt](https://github.com/IvanJosipovic/ingress-nginx-validate-jwt) - Enables Kubernetes ingress-nginx to validate JWT tokens (2 weeks ago)
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (2 weeks ago)
 - [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim (2 weeks ago)
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud (3 weeks ago)
 - [jjpaulo2/fastrpa](https://github.com/jjpaulo2/fastrpa) - 🌐 A fast and simple to use abstraction over Selenium (1 month ago)
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave (1 month ago)
-- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - StarRocks, a Linux Foundation project, is a next-generation sub-second MPP OLAP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics, and ad-hoc queries.   (1 month ago)
 
 ### 🔨 Latest Pull Requests I published
 
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.4.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.0), 2 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.4.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.0), 3 days ago) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.0.2](https://github.com/datahub-project/datahub/releases/tag/v0.14.0.2), 2 weeks ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
