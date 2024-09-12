@@ -9,9 +9,9 @@
 
 ### ⭐ Recently starred repositories
 
-- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (3 days ago)
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (4 days ago)
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (1 week ago)
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (1 week ago)
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (2 weeks ago)
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua (2 weeks ago)
 - [IvanJosipovic/ingress-nginx-validate-jwt](https://github.com/IvanJosipovic/ingress-nginx-validate-jwt) - Enables Kubernetes ingress-nginx to validate JWT tokens (2 weeks ago)
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (2 weeks ago)
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.9.24](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.24), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.4.2](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.4.2), 1 day ago) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.0.2](https://github.com/datahub-project/datahub/releases/tag/v0.14.0.2), 3 weeks ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
