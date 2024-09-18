@@ -9,9 +9,9 @@
 
 ### ⭐ Recently starred repositories
 
-- [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (today)
+- [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (1 day ago)
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (1 week ago)
-- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (1 week ago)
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (2 weeks ago)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (2 weeks ago)
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua (3 weeks ago)
 - [IvanJosipovic/ingress-nginx-validate-jwt](https://github.com/IvanJosipovic/ingress-nginx-validate-jwt) - Enables Kubernetes ingress-nginx to validate JWT tokens (3 weeks ago)
@@ -30,8 +30,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.1rc2](https://github.com/datahub-project/datahub/releases/tag/v0.14.1rc2), today) - The Metadata Platform for your Data Stack
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.5.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.5.1), 5 days ago) - 
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.1](https://github.com/datahub-project/datahub/releases/tag/v0.14.1), 1 day ago) - The Metadata Platform for your Data Stack
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.16.6](https://github.com/grafana/helm-charts/releases/tag/promtail-6.16.6), 1 day ago) - 
 
 ### 📝 Some notes of my "blog"
 
