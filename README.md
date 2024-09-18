@@ -30,8 +30,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.5.0-weekly.308](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.5.0-weekly.308), today) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.1](https://github.com/datahub-project/datahub/releases/tag/v0.14.1), 1 day ago) - The Metadata Platform for your Data Stack
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.16.6](https://github.com/grafana/helm-charts/releases/tag/promtail-6.16.6), 1 day ago) - 
 
 ### 📝 Some notes of my "blog"
 
