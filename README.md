@@ -9,10 +9,10 @@
 
 ### ⭐ Recently starred repositories
 
-- [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (1 day ago)
+- [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (2 days ago)
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (1 week ago)
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (2 weeks ago)
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (2 weeks ago)
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (3 weeks ago)
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua (3 weeks ago)
 - [IvanJosipovic/ingress-nginx-validate-jwt](https://github.com/IvanJosipovic/ingress-nginx-validate-jwt) - Enables Kubernetes ingress-nginx to validate JWT tokens (3 weeks ago)
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (3 weeks ago)
@@ -30,8 +30,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.5.0-weekly.308](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.5.0-weekly.308), today) - 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.1](https://github.com/datahub-project/datahub/releases/tag/v0.14.1), 1 day ago) - The Metadata Platform for your Data Stack
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.5.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.5.2), 1 day ago) - 
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.1](https://github.com/datahub-project/datahub/releases/tag/v0.14.1), 2 days ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
 
