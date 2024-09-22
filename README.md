@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (today)
 - [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests. (1 day ago)
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (3 days ago)
 - [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (5 days ago)
@@ -18,7 +19,6 @@
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua (3 weeks ago)
 - [IvanJosipovic/ingress-nginx-validate-jwt](https://github.com/IvanJosipovic/ingress-nginx-validate-jwt) - Enables Kubernetes ingress-nginx to validate JWT tokens (3 weeks ago)
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (1 month ago)
-- [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim (1 month ago)
 
 ### 🔨 Latest Pull Requests I published
 
