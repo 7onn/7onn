@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.8.1](https://github.com/grafana/helm-charts/releases/tag/alloy-0.8.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.4.4](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.4.4), today) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.1](https://github.com/datahub-project/datahub/releases/tag/v0.14.1), 1 week ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
