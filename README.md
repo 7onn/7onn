@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.15.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.15.0), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.79.4](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.79.4), today) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.1](https://github.com/datahub-project/datahub/releases/tag/v0.14.1), 1 week ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
