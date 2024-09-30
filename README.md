@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [alvinng4/Gravity-Simulator](https://github.com/alvinng4/Gravity-Simulator) - Newtonian N-body gravity simulator accelerated with C library (today)
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (1 day ago)
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (1 week ago)
 - [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests. (1 week ago)
@@ -18,7 +19,6 @@
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (3 weeks ago)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (1 month ago)
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua (1 month ago)
-- [IvanJosipovic/ingress-nginx-validate-jwt](https://github.com/IvanJosipovic/ingress-nginx-validate-jwt) - Enables Kubernetes ingress-nginx to validate JWT tokens (1 month ago)
 
 ### 🔨 Latest Pull Requests I published
 
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.79.4](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.79.4), 3 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.16.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.16.0), today) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.1](https://github.com/datahub-project/datahub/releases/tag/v0.14.1), 1 week ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
