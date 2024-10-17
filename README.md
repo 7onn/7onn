@@ -13,8 +13,8 @@
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (2 weeks ago)
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (3 weeks ago)
 - [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests. (3 weeks ago)
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (3 weeks ago)
-- [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (4 weeks ago)
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (4 weeks ago)
+- [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (1 month ago)
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (1 month ago)
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (1 month ago)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (1 month ago)
@@ -30,8 +30,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.18.5](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.18.5), today) - 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.1](https://github.com/datahub-project/datahub/releases/tag/v0.14.1), 4 weeks ago) - The Metadata Platform for your Data Stack
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.18.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.18.0), 1 day ago) - 
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.1](https://github.com/datahub-project/datahub/releases/tag/v0.14.1), 1 month ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
 
