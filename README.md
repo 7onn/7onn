@@ -10,8 +10,8 @@
 ### ⭐ Recently starred repositories
 
 - [alvinng4/Gravity-Simulator](https://github.com/alvinng4/Gravity-Simulator) - Newtonian N-body gravity simulator accelerated with C and CUDA (2 weeks ago)
-- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (2 weeks ago)
-- [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (3 weeks ago)
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (3 weeks ago)
+- [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (4 weeks ago)
 - [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests. (4 weeks ago)
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (1 month ago)
 - [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (1 month ago)
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.5.8](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.8), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.5.8](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.8), 1 day ago) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.1](https://github.com/datahub-project/datahub/releases/tag/v0.14.1), 1 month ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
