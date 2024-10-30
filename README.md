@@ -9,10 +9,10 @@
 
 ### ⭐ Recently starred repositories
 
-- [amrdb/data-services](https://github.com/amrdb/data-services) - A high-performance, distributed data access layer implementing request coalescing and hash-based routing to reduce database load and prevent hot partitions.  (1 day ago)
-- [spf13/cobra-cli](https://github.com/spf13/cobra-cli) - Cobra CLI tool to generate applications and commands (1 day ago)
-- [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes (1 day ago)
-- [alvinng4/Gravity-Simulator](https://github.com/alvinng4/Gravity-Simulator) - Newtonian N-body gravity simulator accelerated with C and CUDA (4 weeks ago)
+- [amrdb/data-services](https://github.com/amrdb/data-services) - A high-performance, distributed data access layer implementing request coalescing and hash-based routing to reduce database load and prevent hot partitions.  (2 days ago)
+- [spf13/cobra-cli](https://github.com/spf13/cobra-cli) - Cobra CLI tool to generate applications and commands (2 days ago)
+- [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes (2 days ago)
+- [alvinng4/Gravity-Simulator](https://github.com/alvinng4/Gravity-Simulator) - Newtonian N-body gravity simulator accelerated with C and CUDA (1 month ago)
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (1 month ago)
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (1 month ago)
 - [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests. (1 month ago)
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.314](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.314), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.314](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.314), 2 days ago) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.1](https://github.com/datahub-project/datahub/releases/tag/v0.14.1), 1 month ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
