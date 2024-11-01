@@ -9,9 +9,9 @@
 
 ### ⭐ Recently starred repositories
 
-- [amrdb/data-services](https://github.com/amrdb/data-services) - A high-performance, distributed data access layer implementing request coalescing and hash-based routing to reduce database load and prevent hot partitions.  (3 days ago)
-- [spf13/cobra-cli](https://github.com/spf13/cobra-cli) - Cobra CLI tool to generate applications and commands (3 days ago)
-- [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes (3 days ago)
+- [amrdb/data-services](https://github.com/amrdb/data-services) - A high-performance, distributed data access layer implementing request coalescing and hash-based routing to reduce database load and prevent hot partitions.  (4 days ago)
+- [spf13/cobra-cli](https://github.com/spf13/cobra-cli) - Cobra CLI tool to generate applications and commands (4 days ago)
+- [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes (4 days ago)
 - [alvinng4/Gravity-Simulator](https://github.com/alvinng4/Gravity-Simulator) - Newtonian N-body gravity simulator accelerated with C and CUDA (1 month ago)
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (1 month ago)
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (1 month ago)
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.3), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0-rc.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.1), 1 day ago) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.1](https://github.com/datahub-project/datahub/releases/tag/v0.14.1), 1 month ago) - The Metadata Platform for your Data Stack
 
 ### 📝 Some notes of my "blog"
