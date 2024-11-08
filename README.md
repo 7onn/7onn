@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.6), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.315](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.315), today) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.14.1](https://github.com/datahub-project/datahub/releases/tag/v0.14.1), 1 month ago) - The Metadata Platform for your Data and AI Stack
 
 ### 📝 Some notes of my "blog"
