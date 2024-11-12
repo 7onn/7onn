@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (today)
 - [amrdb/data-services](https://github.com/amrdb/data-services) - A high-performance, distributed data access layer implementing request coalescing and hash-based routing to reduce database load and prevent hot partitions.  (2 weeks ago)
 - [spf13/cobra-cli](https://github.com/spf13/cobra-cli) - Cobra CLI tool to generate applications and commands (2 weeks ago)
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes (2 weeks ago)
@@ -18,7 +19,6 @@
 - [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests. (1 month ago)
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (1 month ago)
 - [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (1 month ago)
-- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (2 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
