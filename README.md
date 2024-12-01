@@ -22,7 +22,7 @@
 
 ### 🔨 Latest Pull Requests I published
 
-- [feat(datahub-gms): Enable autoscaling via HPA](https://github.com/acryldata/datahub-helm/pull/517) on [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) (3 weeks ago)
+- [feat(datahub-gms): Enable autoscaling via HPA](https://github.com/acryldata/datahub-helm/pull/517) on [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) (4 weeks ago)
 - [fix(ingestion/metabase): Fetch Dashboards through Collections ](https://github.com/datahub-project/datahub/pull/9631) on [datahub-project/datahub](https://github.com/datahub-project/datahub) (10 months ago)
 - [Publish gpg encryption article](https://github.com/7onn/7onn.github.io/pull/1) on [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) (10 months ago)
 - [[tempo-distributed] Enable autoscaling for Compactor](https://github.com/grafana/helm-charts/pull/2817) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 year ago)
@@ -30,9 +30,9 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.4.39](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.4.39), 1 day ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.6.4](https://github.com/grafana/helm-charts/releases/tag/grafana-8.6.4), 1 day ago) - 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0rc2](https://github.com/datahub-project/datahub/releases/tag/v0.15.0rc2), 3 days ago) - The Metadata Platform for your Data and AI Stack
+- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.4.39](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.4.39), 2 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.6.4](https://github.com/grafana/helm-charts/releases/tag/grafana-8.6.4), 2 days ago) - 
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0rc2](https://github.com/datahub-project/datahub/releases/tag/v0.15.0rc2), 4 days ago) - The Metadata Platform for your Data and AI Stack
 
 ### 📝 Some notes of my "blog"
 
