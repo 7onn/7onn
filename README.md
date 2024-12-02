@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.21.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.21.0), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.319](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.319), today) - 
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.4.39](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.4.39), 3 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0rc2](https://github.com/datahub-project/datahub/releases/tag/v0.15.0rc2), 5 days ago) - The Metadata Platform for your Data and AI Stack
 
