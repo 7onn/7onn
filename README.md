@@ -30,13 +30,13 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.13.8](https://github.com/grafana/helm-charts/releases/tag/oncall-1.13.8), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.13.9](https://github.com/grafana/helm-charts/releases/tag/oncall-1.13.9), 1 day ago) - 
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.4.39](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.4.39), 1 week ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0rc2](https://github.com/datahub-project/datahub/releases/tag/v0.15.0rc2), 1 week ago) - The Metadata Platform for your Data and AI Stack
 
 ### 📝 Some notes of my "blog"
 
-- [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (10 months ago)
+- [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (11 months ago)
 - [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (11 months ago)
 - [Efficiency and performance](https://www.7onn.dev/post/efficiency-and-performance/) (2 years ago)
 - [Provisioning](https://www.7onn.dev/post/provisioning/) (2 years ago)
