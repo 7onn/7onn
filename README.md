@@ -30,9 +30,9 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.25.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.25.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.25.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.25.1), 1 day ago) - 
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.4.39](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.4.39), 1 week ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0rc2](https://github.com/datahub-project/datahub/releases/tag/v0.15.0rc2), 1 week ago) - The Metadata Platform for your Data and AI Stack
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0rc2](https://github.com/datahub-project/datahub/releases/tag/v0.15.0rc2), 2 weeks ago) - The Metadata Platform for your Data and AI Stack
 
 ### 📝 Some notes of my "blog"
 
