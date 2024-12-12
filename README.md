@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (4 weeks ago)
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (1 month ago)
 - [amrdb/data-services](https://github.com/amrdb/data-services) - A high-performance, distributed data access layer implementing request coalescing and hash-based routing to reduce database load and prevent hot partitions.  (1 month ago)
 - [spf13/cobra-cli](https://github.com/spf13/cobra-cli) - Cobra CLI tool to generate applications and commands (1 month ago)
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes (1 month ago)
@@ -30,9 +30,9 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.25.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.25.1), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.1](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.1), 1 day ago) - 
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0rc3](https://github.com/datahub-project/datahub/releases/tag/v0.15.0rc3), 1 day ago) - The Metadata Platform for your Data and AI Stack
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.4.39](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.4.39), 1 week ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0rc2](https://github.com/datahub-project/datahub/releases/tag/v0.15.0rc2), 2 weeks ago) - The Metadata Platform for your Data and AI Stack
 
 ### 📝 Some notes of my "blog"
 
