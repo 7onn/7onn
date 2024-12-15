@@ -18,7 +18,7 @@
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (2 months ago)
 - [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests. (2 months ago)
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (2 months ago)
-- [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (2 months ago)
+- [zml/zml](https://github.com/zml/zml) - Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild (2 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.26.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.26.1), 2 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.1), today) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0rc3](https://github.com/datahub-project/datahub/releases/tag/v0.15.0rc3), 4 days ago) - The Metadata Platform for your Data and AI Stack
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.4.39](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.4.39), 2 weeks ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
