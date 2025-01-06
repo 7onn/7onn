@@ -30,13 +30,13 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.17](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.17), 1 day ago) - 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0rc5](https://github.com/datahub-project/datahub/releases/tag/v0.15.0rc5), 2 days ago) - The Metadata Platform for your Data and AI Stack
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.17](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.17), 2 days ago) - 
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0rc5](https://github.com/datahub-project/datahub/releases/tag/v0.15.0rc5), 3 days ago) - The Metadata Platform for your Data and AI Stack
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.4.39](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.4.39), 1 month ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
 
-- [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (11 months ago)
+- [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (1 year ago)
 - [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (1 year ago)
 - [Efficiency and performance](https://www.7onn.dev/post/efficiency-and-performance/) (2 years ago)
 - [Provisioning](https://www.7onn.dev/post/provisioning/) (2 years ago)
