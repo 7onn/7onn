@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [mogensen/helm-changelog](https://github.com/mogensen/helm-changelog) - Create changelogs for Helm Charts, based on git history (2 weeks ago)
+- [mogensen/helm-changelog](https://github.com/mogensen/helm-changelog) - Create changelogs for Helm Charts, based on git history (3 weeks ago)
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (1 month ago)
 - [amrdb/data-services](https://github.com/amrdb/data-services) - A high-performance, distributed data access layer implementing request coalescing and hash-based routing to reduce database load and prevent hot partitions.  (2 months ago)
 - [spf13/cobra-cli](https://github.com/spf13/cobra-cli) - Cobra CLI tool to generate applications and commands (2 months ago)
@@ -23,15 +23,15 @@
 ### 🔨 Latest Pull Requests I published
 
 - [feat(datahub-gms): Enable autoscaling via HPA](https://github.com/acryldata/datahub-helm/pull/517) on [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) (2 months ago)
-- [fix(ingestion/metabase): Fetch Dashboards through Collections ](https://github.com/datahub-project/datahub/pull/9631) on [datahub-project/datahub](https://github.com/datahub-project/datahub) (11 months ago)
+- [fix(ingestion/metabase): Fetch Dashboards through Collections ](https://github.com/datahub-project/datahub/pull/9631) on [datahub-project/datahub](https://github.com/datahub-project/datahub) (1 year ago)
 - [Publish gpg encryption article](https://github.com/7onn/7onn.github.io/pull/1) on [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) (1 year ago)
 - [[tempo-distributed] Enable autoscaling for Compactor](https://github.com/grafana/helm-charts/pull/2817) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 year ago)
 - [Add GeoLite2](https://github.com/isabellaherman/bolhaclub/pull/3) on [isabellaherman/bolhaclub](https://github.com/isabellaherman/bolhaclub) (1 year ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0), 1 day ago) - 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0rc5](https://github.com/datahub-project/datahub/releases/tag/v0.15.0rc5), 5 days ago) - The Metadata Platform for your Data and AI Stack
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0), 2 days ago) - 
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0rc5](https://github.com/datahub-project/datahub/releases/tag/v0.15.0rc5), 6 days ago) - The Metadata Platform for your Data and AI Stack
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.4.39](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.4.39), 1 month ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
