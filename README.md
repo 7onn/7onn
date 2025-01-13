@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [coralogix/telemetry-shippers](https://github.com/coralogix/telemetry-shippers) - Coralogix&#39;s way to ship our best practices when it comes to interaction with our platform.  (today)
 - [mogensen/helm-changelog](https://github.com/mogensen/helm-changelog) - Create changelogs for Helm Charts, based on git history (3 weeks ago)
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (2 months ago)
 - [amrdb/data-services](https://github.com/amrdb/data-services) - A high-performance, distributed data access layer implementing request coalescing and hash-based routing to reduce database load and prevent hot partitions.  (2 months ago)
@@ -18,7 +19,6 @@
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (3 months ago)
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (3 months ago)
 - [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests. (3 months ago)
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (3 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.18](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.18), 4 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.6.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.6.0), today) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0rc5](https://github.com/datahub-project/datahub/releases/tag/v0.15.0rc5), 1 week ago) - The Metadata Platform for your Data and AI Stack
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.4.39](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.4.39), 1 month ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
