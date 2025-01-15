@@ -30,8 +30,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.12.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.12.0), today) - 
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0rc6](https://github.com/datahub-project/datahub/releases/tag/v0.15.0rc6), today) - The Metadata Platform for your Data and AI Stack
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.6.2](https://github.com/grafana/helm-charts/releases/tag/beyla-1.6.2), today) - 
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.4.40](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.4.40), 1 day ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
