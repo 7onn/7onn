@@ -30,9 +30,9 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0rc6](https://github.com/datahub-project/datahub/releases/tag/v0.15.0rc6), today) - The Metadata Platform for your Data and AI Stack
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.6.2](https://github.com/grafana/helm-charts/releases/tag/beyla-1.6.2), today) - 
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.4.40](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.4.40), 1 day ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0rc5](https://github.com/datahub-project/datahub/releases/tag/v0.15.0rc5), 1 week ago) - The Metadata Platform for your Data and AI Stack
 
 ### 📝 Some notes of my "blog"
 
