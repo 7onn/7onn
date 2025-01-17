@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [coralogix/telemetry-shippers](https://github.com/coralogix/telemetry-shippers) - Coralogix&#39;s way to ship our best practices when it comes to interaction with our platform.  (3 days ago)
+- [coralogix/telemetry-shippers](https://github.com/coralogix/telemetry-shippers) - Coralogix&#39;s way to ship our best practices when it comes to interaction with our platform.  (4 days ago)
 - [mogensen/helm-changelog](https://github.com/mogensen/helm-changelog) - Create changelogs for Helm Charts, based on git history (4 weeks ago)
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (2 months ago)
 - [amrdb/data-services](https://github.com/amrdb/data-services) - A high-performance, distributed data access layer implementing request coalescing and hash-based routing to reduce database load and prevent hot partitions.  (2 months ago)
@@ -30,17 +30,17 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0](https://github.com/datahub-project/datahub/releases/tag/v0.15.0), today) - The Metadata Platform for your Data and AI Stack
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.6.3](https://github.com/grafana/helm-charts/releases/tag/beyla-1.6.3), today) - 
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.4.40](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.4.40), 2 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.24.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.24.1), 1 day ago) - 
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0](https://github.com/datahub-project/datahub/releases/tag/v0.15.0), 1 day ago) - The Metadata Platform for your Data and AI Stack
+- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.4.40](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.4.40), 3 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
 
 - [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (1 year ago)
 - [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (1 year ago)
 - [Efficiency and performance](https://www.7onn.dev/post/efficiency-and-performance/) (2 years ago)
-- [Provisioning](https://www.7onn.dev/post/provisioning/) (2 years ago)
-- [Demand forecasting and capacity planning](https://www.7onn.dev/post/demand-forecasting-and-capacity-planning/) (2 years ago)
+- [Provisioning](https://www.7onn.dev/post/provisioning/) (3 years ago)
+- [Demand forecasting and capacity planning](https://www.7onn.dev/post/demand-forecasting-and-capacity-planning/) (3 years ago)
 
 ### ⚡ Funny gif about being employed as a Software Engineer
 <p align="center">
