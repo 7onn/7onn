@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.25.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.25.0), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.21](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.21), today) - 
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.1](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.1), 1 day ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0](https://github.com/datahub-project/datahub/releases/tag/v0.15.0), 2 days ago) - The Metadata Platform for your Data and AI Stack
 
