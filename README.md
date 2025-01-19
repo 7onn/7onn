@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [coralogix/telemetry-shippers](https://github.com/coralogix/telemetry-shippers) - Coralogix&#39;s way to ship our best practices when it comes to interaction with our platform.  (5 days ago)
+- [coralogix/telemetry-shippers](https://github.com/coralogix/telemetry-shippers) - Coralogix&#39;s way to ship our best practices when it comes to interaction with our platform.  (6 days ago)
 - [mogensen/helm-changelog](https://github.com/mogensen/helm-changelog) - Create changelogs for Helm Charts, based on git history (1 month ago)
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (2 months ago)
 - [amrdb/data-services](https://github.com/amrdb/data-services) - A high-performance, distributed data access layer implementing request coalescing and hash-based routing to reduce database load and prevent hot partitions.  (2 months ago)
@@ -18,7 +18,7 @@
 - [alvinng4/Gravity-Simulator](https://github.com/alvinng4/Gravity-Simulator) - Newtonian N-body gravity simulator accelerated with C and CUDA (3 months ago)
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (3 months ago)
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (3 months ago)
-- [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests. (3 months ago)
+- [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests. (4 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
@@ -30,9 +30,9 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.18.1](https://github.com/grafana/helm-charts/releases/tag/tempo-1.18.1), today) - 
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.1](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.1), 1 day ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0](https://github.com/datahub-project/datahub/releases/tag/v0.15.0), 2 days ago) - The Metadata Platform for your Data and AI Stack
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.18.1](https://github.com/grafana/helm-charts/releases/tag/tempo-1.18.1), 1 day ago) - 
+- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.1](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.1), 2 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0](https://github.com/datahub-project/datahub/releases/tag/v0.15.0), 3 days ago) - The Metadata Platform for your Data and AI Stack
 
 ### 📝 Some notes of my "blog"
 
