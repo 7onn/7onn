@@ -30,9 +30,9 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.326](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.326), today) - 
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.1](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.1), 3 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0](https://github.com/datahub-project/datahub/releases/tag/v0.15.0), 4 days ago) - The Metadata Platform for your Data and AI Stack
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.326](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.326), 1 day ago) - 
+- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.1](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.1), 4 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0](https://github.com/datahub-project/datahub/releases/tag/v0.15.0), 5 days ago) - The Metadata Platform for your Data and AI Stack
 
 ### 📝 Some notes of my "blog"
 
