@@ -30,9 +30,9 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.10.2](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.10.2), today) - 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0.1](https://github.com/datahub-project/datahub/releases/tag/v0.15.0.1), 1 day ago) - The Metadata Platform for your Data and AI Stack
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.1](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.1), 5 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.10.2](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.10.2), 1 day ago) - 
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) ([v0.15.0.1](https://github.com/datahub-project/datahub/releases/tag/v0.15.0.1), 2 days ago) - The Metadata Platform for your Data and AI Stack
+- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.1](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.1), 6 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
 
