@@ -30,8 +30,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.7.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.7.0), today) - 
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.3](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.3), today) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.7.1](https://github.com/grafana/helm-charts/releases/tag/beyla-1.7.1), 1 day ago) - 
+- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.3](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.3), 1 day ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
 
