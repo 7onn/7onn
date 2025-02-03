@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [coralogix/telemetry-shippers](https://github.com/coralogix/telemetry-shippers) - Coralogix&#39;s way to ship our best practices when it comes to interaction with our platform.  (2 weeks ago)
+- [coralogix/telemetry-shippers](https://github.com/coralogix/telemetry-shippers) - Coralogix&#39;s way to ship our best practices when it comes to interaction with our platform.  (3 weeks ago)
 - [mogensen/helm-changelog](https://github.com/mogensen/helm-changelog) - Create changelogs for Helm Charts, based on git history (1 month ago)
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (2 months ago)
 - [amrdb/data-services](https://github.com/amrdb/data-services) - A high-performance, distributed data access layer implementing request coalescing and hash-based routing to reduce database load and prevent hot partitions.  (3 months ago)
@@ -30,8 +30,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.6](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.6), 2 days ago) - 
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.4](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.4), 2 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.6](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.6), 3 days ago) - 
+- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.4](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.4), 3 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
 
