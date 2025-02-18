@@ -18,7 +18,7 @@
 - [alvinng4/Gravity-Simulator](https://github.com/alvinng4/Gravity-Simulator) - Python N-body gravity solver accelerated with C (4 months ago)
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (4 months ago)
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (4 months ago)
-- [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests. (4 months ago)
+- [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview) - Tool for rendering manifest changes on pull requests. (5 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
@@ -30,8 +30,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.330](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.330), today) - 
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.7](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.7), 5 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.330](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.330), 1 day ago) - 
+- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.7](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.7), 6 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
 
