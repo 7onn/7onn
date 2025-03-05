@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge) - A library allowing Terraform providers to be bridged into Pulumi. (today)
+- [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge) - A library allowing Terraform providers to be bridged into Pulumi. (1 day ago)
 - [coralogix/telemetry-shippers](https://github.com/coralogix/telemetry-shippers) - Coralogix&#39;s way to ship our best practices when it comes to interaction with our platform.  (1 month ago)
 - [mogensen/helm-changelog](https://github.com/mogensen/helm-changelog) - Create changelogs for Helm Charts, based on git history (2 months ago)
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (3 months ago)
@@ -30,8 +30,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.16](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.16), 1 day ago) - 
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.8](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.8), 1 week ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
+- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.9](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.9), 1 day ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.332](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.332), 1 day ago) - 
 
 ### 📝 Some notes of my "blog"
 
