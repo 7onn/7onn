@@ -30,8 +30,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.11](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.11), today) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.10.4](https://github.com/grafana/helm-charts/releases/tag/grafana-8.10.4), 1 day ago) - 
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.10](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.10), 1 week ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
 
