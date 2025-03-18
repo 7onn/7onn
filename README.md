@@ -30,8 +30,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.80.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.80.2), today) - 
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.11](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.11), 1 day ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.10.4](https://github.com/grafana/helm-charts/releases/tag/grafana-8.10.4), 2 days ago) - 
 
 ### 📝 Some notes of my "blog"
 
