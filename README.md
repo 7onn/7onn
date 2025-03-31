@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [alexedwards/flow](https://github.com/alexedwards/flow) - A delightfully tiny but powerful HTTP router for Go web applications (5 days ago)
+- [alexedwards/flow](https://github.com/alexedwards/flow) - A delightfully tiny but powerful HTTP router for Go web applications (6 days ago)
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models (3 weeks ago)
 - [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge) - A library allowing Terraform providers to be bridged into Pulumi. (3 weeks ago)
 - [coralogix/telemetry-shippers](https://github.com/coralogix/telemetry-shippers) - Coralogix&#39;s way to ship our best practices when it comes to interaction with our platform.  (2 months ago)
@@ -22,7 +22,7 @@
 
 ### 🔨 Latest Pull Requests I published
 
-- [add lobby screen](https://github.com/7onn/croupier/pull/1) on [7onn/croupier](https://github.com/7onn/croupier) (3 days ago)
+- [add lobby screen](https://github.com/7onn/croupier/pull/1) on [7onn/croupier](https://github.com/7onn/croupier) (4 days ago)
 - [feat(datahub-gms): Enable autoscaling via HPA](https://github.com/acryldata/datahub-helm/pull/517) on [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) (4 months ago)
 - [fix(ingestion/metabase): Fetch Dashboards through Collections ](https://github.com/datahub-project/datahub/pull/9631) on [datahub-project/datahub](https://github.com/datahub-project/datahub) (1 year ago)
 - [Publish gpg encryption article](https://github.com/7onn/7onn.github.io/pull/1) on [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) (1 year ago)
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.31](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.31), 2 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.31](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.31), 3 days ago) - 
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.13](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.13), 1 week ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
