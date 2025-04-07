@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching (today)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (1 week ago)
 - [alexedwards/flow](https://github.com/alexedwards/flow) - A delightfully tiny but powerful HTTP router for Go web applications (1 week ago)
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models (1 month ago)
@@ -18,7 +19,6 @@
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (4 months ago)
 - [amrdb/data-services](https://github.com/amrdb/data-services) - A high-performance, distributed data access layer implementing request coalescing and hash-based routing to reduce database load and prevent hot partitions.  (5 months ago)
 - [spf13/cobra-cli](https://github.com/spf13/cobra-cli) - Cobra CLI tool to generate applications and commands (5 months ago)
-- [alvinng4/Gravity-Simulator](https://github.com/alvinng4/Gravity-Simulator) - Python N-body gravity solver accelerated with C (6 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.26.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.26.0), 2 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.26.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.26.1), today) - 
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.13](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.13), 2 weeks ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
