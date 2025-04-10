@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.0), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.17.1](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.17.1), today) - 
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.5.13](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.5.13), 3 weeks ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
