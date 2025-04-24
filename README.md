@@ -13,7 +13,7 @@
 - [clickswave/voyage](https://github.com/clickswave/voyage) - Voyage is a stateful subdomain enumeration tool that combines passive and active techniques, user-specific databases, and fine-grained control built for efficient and reliable subdomain reconnaissance. (2 weeks ago)
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching (2 weeks ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (3 weeks ago)
-- [alexedwards/flow](https://github.com/alexedwards/flow) - A delightfully tiny but powerful HTTP router for Go web applications (4 weeks ago)
+- [alexedwards/flow](https://github.com/alexedwards/flow) - A delightfully tiny but powerful HTTP router for Go web applications (1 month ago)
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models (1 month ago)
 - [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge) - A library allowing Terraform providers to be bridged into Pulumi. (1 month ago)
 - [coralogix/telemetry-shippers](https://github.com/coralogix/telemetry-shippers) - Coralogix&#39;s way to ship our best practices when it comes to interaction with our platform.  (3 months ago)
@@ -22,7 +22,7 @@
 
 ### 🔨 Latest Pull Requests I published
 
-- [add lobby screen](https://github.com/7onn/croupier/pull/1) on [7onn/croupier](https://github.com/7onn/croupier) (3 weeks ago)
+- [add lobby screen](https://github.com/7onn/croupier/pull/1) on [7onn/croupier](https://github.com/7onn/croupier) (4 weeks ago)
 - [feat(datahub-gms): Enable autoscaling via HPA](https://github.com/acryldata/datahub-helm/pull/517) on [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) (5 months ago)
 - [fix(ingestion/metabase): Fetch Dashboards through Collections ](https://github.com/datahub-project/datahub/pull/9631) on [datahub-project/datahub](https://github.com/datahub-project/datahub) (1 year ago)
 - [Publish gpg encryption article](https://github.com/7onn/7onn.github.io/pull/1) on [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) (1 year ago)
@@ -30,8 +30,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.2](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.2), today) - 
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.0](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.0), 5 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.4-beta.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.4-beta.1), 1 day ago) - 
+- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.0](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.0), 6 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
 
