@@ -10,7 +10,7 @@
 ### ⭐ Recently starred repositories
 
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens. (2 weeks ago)
-- [clickswave/voyage](https://github.com/clickswave/voyage) - Voyage is a stateful subdomain enumeration tool that combines passive and active techniques, user-specific databases, and fine-grained control built for efficient and reliable subdomain reconnaissance. (2 weeks ago)
+- [clickswave/voyage](https://github.com/clickswave/voyage) - Voyage is a stateful subdomain enumeration tool that combines passive and active techniques, user-specific databases, and fine-grained control built for efficient and reliable subdomain reconnaissance. (3 weeks ago)
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching (3 weeks ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (4 weeks ago)
 - [alexedwards/flow](https://github.com/alexedwards/flow) - A delightfully tiny but powerful HTTP router for Go web applications (1 month ago)
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.6-beta.4](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.6-beta.4), 2 days ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.6-beta.4](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.6-beta.4), 3 days ago) - 
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.0](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.0), 1 week ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
