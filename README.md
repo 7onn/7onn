@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 day ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (2 days ago)
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens. (2 weeks ago)
 - [clickswave/voyage](https://github.com/clickswave/voyage) - Voyage is a stateful subdomain enumeration tool that combines passive and active techniques, user-specific databases, and fine-grained control built for efficient and reliable subdomain reconnaissance. (3 weeks ago)
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching (3 weeks ago)
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.4](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.4), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.28.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.28.0), 1 day ago) - 
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.0](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.0), 1 week ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
