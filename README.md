@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (2 days ago)
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (3 days ago)
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens. (2 weeks ago)
 - [clickswave/voyage](https://github.com/clickswave/voyage) - Voyage is a stateful subdomain enumeration tool that combines passive and active techniques, user-specific databases, and fine-grained control built for efficient and reliable subdomain reconnaissance. (3 weeks ago)
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching (3 weeks ago)
@@ -23,15 +23,15 @@
 ### 🔨 Latest Pull Requests I published
 
 - [add lobby screen](https://github.com/7onn/croupier/pull/1) on [7onn/croupier](https://github.com/7onn/croupier) (1 month ago)
-- [feat(datahub-gms): Enable autoscaling via HPA](https://github.com/acryldata/datahub-helm/pull/517) on [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) (5 months ago)
+- [feat(datahub-gms): Enable autoscaling via HPA](https://github.com/acryldata/datahub-helm/pull/517) on [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) (6 months ago)
 - [fix(ingestion/metabase): Fetch Dashboards through Collections ](https://github.com/datahub-project/datahub/pull/9631) on [datahub-project/datahub](https://github.com/datahub-project/datahub) (1 year ago)
 - [Publish gpg encryption article](https://github.com/7onn/7onn.github.io/pull/1) on [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) (1 year ago)
 - [[tempo-distributed] Enable autoscaling for Compactor](https://github.com/grafana/helm-charts/pull/2817) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 year ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.28.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.28.0), 1 day ago) - 
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.0](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.0), 1 week ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.16.0](https://github.com/grafana/helm-charts/releases/tag/oncall-1.16.0), 1 day ago) - 
+- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.0](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.0), 2 weeks ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
 
