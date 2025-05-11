@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [tienanr/docurift](https://github.com/tienanr/docurift) - DocuRift is an intelligent API documentation generator that automatically analyzes your API traffic and generates comprehensive documentation in multiple formats. It works as a proxy server that captures API requests and responses, then generates OpenAPI and Postman collection documentation. (2 days ago)
+- [tienanr/docurift](https://github.com/tienanr/docurift) - DocuRift is an intelligent API documentation generator that automatically analyzes your API traffic and generates comprehensive documentation in multiple formats. It works as a proxy server that captures API requests and responses, then generates OpenAPI and Postman collection documentation. (3 days ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens. (3 weeks ago)
 - [clickswave/voyage](https://github.com/clickswave/voyage) - Voyage is a stateful subdomain enumeration tool that combines passive and active techniques, user-specific databases, and fine-grained control built for efficient and reliable subdomain reconnaissance. (1 month ago)
@@ -22,7 +22,7 @@
 
 ### 🔨 Latest Pull Requests I published
 
-- [feat(cloudflare): Enable DNS record Comment and Tags](https://github.com/kubernetes-sigs/external-dns/pull/5359) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (5 days ago)
+- [feat(cloudflare): Enable DNS record Comment and Tags](https://github.com/kubernetes-sigs/external-dns/pull/5359) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (6 days ago)
 - [add lobby screen](https://github.com/7onn/croupier/pull/1) on [7onn/croupier](https://github.com/7onn/croupier) (1 month ago)
 - [feat(datahub-gms): Enable autoscaling via HPA](https://github.com/acryldata/datahub-helm/pull/517) on [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) (6 months ago)
 - [fix(ingestion/metabase): Fetch Dashboards through Collections ](https://github.com/datahub-project/datahub/pull/9631) on [datahub-project/datahub](https://github.com/datahub-project/datahub) (1 year ago)
@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.13.1](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.13.1), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.13.1](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.13.1), 2 days ago) - 
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.0](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.0), 3 weeks ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
