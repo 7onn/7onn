@@ -22,15 +22,15 @@
 
 ### 🔨 Latest Pull Requests I published
 
+- [feat(cloudflare): Suppport DNS record comments](https://github.com/kubernetes-sigs/external-dns/pull/5411) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (today)
 - [feat(cloudflare): Enable DNS record Comment and Tags](https://github.com/kubernetes-sigs/external-dns/pull/5359) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 week ago)
 - [add lobby screen](https://github.com/7onn/croupier/pull/1) on [7onn/croupier](https://github.com/7onn/croupier) (1 month ago)
 - [feat(datahub-gms): Enable autoscaling via HPA](https://github.com/acryldata/datahub-helm/pull/517) on [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) (6 months ago)
 - [fix(ingestion/metabase): Fetch Dashboards through Collections ](https://github.com/datahub-project/datahub/pull/9631) on [datahub-project/datahub](https://github.com/datahub-project/datahub) (1 year ago)
-- [Publish gpg encryption article](https://github.com/7onn/7onn.github.io/pull/1) on [7onn/7onn.github.io](https://github.com/7onn/7onn.github.io) (1 year ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.16.1](https://github.com/grafana/helm-charts/releases/tag/oncall-1.16.1), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.13.4](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.13.4), today) - 
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.0](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.0), 4 weeks ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
