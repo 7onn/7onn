@@ -30,8 +30,8 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.23.2](https://github.com/grafana/helm-charts/releases/tag/tempo-1.23.2), today) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.18.0), today) - Configure external DNS servers dynamically from Kubernetes resources
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.14.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.14.0), today) - 
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.9](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.9), 2 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
