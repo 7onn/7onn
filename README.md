@@ -22,15 +22,15 @@
 
 ### 🔨 Latest Pull Requests I published
 
-- [fix(cloudflare): Set comments properly](https://github.com/kubernetes-sigs/external-dns/pull/5582) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (6 days ago)
+- [fix(cloudflare): Set comments properly](https://github.com/kubernetes-sigs/external-dns/pull/5582) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 week ago)
 - [feat(cloudflare): Support DNS record tags](https://github.com/kubernetes-sigs/external-dns/pull/5488) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 month ago)
 - [feat(cloudflare): Suppport DNS record comments](https://github.com/kubernetes-sigs/external-dns/pull/5411) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 month ago)
-- [feat(cloudflare): Enable DNS record Comment and Tags](https://github.com/kubernetes-sigs/external-dns/pull/5359) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 month ago)
+- [feat(cloudflare): Enable DNS record Comment and Tags](https://github.com/kubernetes-sigs/external-dns/pull/5359) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (2 months ago)
 - [add lobby screen](https://github.com/7onn/croupier/pull/1) on [7onn/croupier](https://github.com/7onn/croupier) (3 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.9.0](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.9.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.9.0](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.9.0), 1 day ago) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.18.0), 1 week ago) - Configure external DNS servers dynamically from Kubernetes resources
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.9](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.9), 1 week ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
