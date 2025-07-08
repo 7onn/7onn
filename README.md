@@ -9,7 +9,6 @@
 
 ### ⭐ Recently starred repositories
 
-- [Kittl/api](https://github.com/Kittl/api) - 🏦 Storing important stuff (3 days ago)
 - [tienanr/docurift](https://github.com/tienanr/docurift) - DocuRift is an intelligent API documentation generator that automatically analyzes your API traffic and generates comprehensive documentation in multiple formats. It works as a proxy server that captures API requests and responses, then generates OpenAPI and Postman collection documentation. (2 months ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (2 months ago)
 - [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens. (2 months ago)
@@ -19,6 +18,7 @@
 - [alexedwards/flow](https://github.com/alexedwards/flow) - A delightfully tiny but powerful HTTP router for Go web applications (3 months ago)
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models (4 months ago)
 - [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge) - A library allowing Terraform providers to be bridged into Pulumi. (4 months ago)
+- [coralogix/telemetry-shippers](https://github.com/coralogix/telemetry-shippers) - Coralogix&#39;s way to ship our best practices when it comes to interaction with our platform.  (5 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
@@ -30,9 +30,9 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.35](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.35), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.1.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.1.1), 1 day ago) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.18.0), 1 week ago) - Configure external DNS servers dynamically from Kubernetes resources
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.9](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.9), 1 week ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
+- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.9](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.9), 2 weeks ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
 
