@@ -22,7 +22,7 @@
 
 ### 🔨 Latest Pull Requests I published
 
-- [fix(cloudflare): Set comments properly](https://github.com/kubernetes-sigs/external-dns/pull/5582) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 week ago)
+- [fix(cloudflare): set comments properly](https://github.com/kubernetes-sigs/external-dns/pull/5582) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 week ago)
 - [feat(cloudflare): Support DNS record tags](https://github.com/kubernetes-sigs/external-dns/pull/5488) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 month ago)
 - [feat(cloudflare): Suppport DNS record comments](https://github.com/kubernetes-sigs/external-dns/pull/5411) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 month ago)
 - [feat(cloudflare): Enable DNS record Comment and Tags](https://github.com/kubernetes-sigs/external-dns/pull/5359) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (2 months ago)
