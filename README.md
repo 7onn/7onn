@@ -30,9 +30,9 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.1.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.1.3), today) - 
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.18.0), today) - Configure external DNS servers dynamically from Kubernetes resources
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.12](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.12), 2 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.32.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.32.0), 1 day ago) - 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.18.0), 1 day ago) - Configure external DNS servers dynamically from Kubernetes resources
+- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.12](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.12), 3 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 
 ### 📝 Some notes of my "blog"
 
