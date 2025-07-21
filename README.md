@@ -30,19 +30,19 @@
 
 ### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.39](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.39), today) - 
 - [7onn/helm-charts](https://github.com/7onn/helm-charts) ([gcp-idleness-exporter-1.0.3](https://github.com/7onn/helm-charts/releases/tag/gcp-idleness-exporter-1.0.3), today) - Helm charts for Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.44](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.44), today) - 
 - [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) ([v2.0.3](https://github.com/7onn/gcp-idleness-exporter/releases/tag/v2.0.3), today) - Identify unused resources at Google Cloud Platform through Prometheus&#39; metrics
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.14](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.14), today) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.18.0), 6 days ago) - Configure external DNS servers dynamically from Kubernetes resources
 
 ### 📝 Some notes of my "blog"
 
+- [Kubernetes management tooling](https://www.7onn.dev/post/kubernetes-management-tooling/) (today)
 - [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (2 years ago)
 - [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (2 years ago)
 - [Efficiency and performance](https://www.7onn.dev/post/efficiency-and-performance/) (3 years ago)
 - [Provisioning](https://www.7onn.dev/post/provisioning/) (3 years ago)
-- [Demand forecasting and capacity planning](https://www.7onn.dev/post/demand-forecasting-and-capacity-planning/) (3 years ago)
 
 ### ⚡ Funny gif about being employed as a Software Engineer
 <p align="center">
