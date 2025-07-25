@@ -22,23 +22,23 @@
 
 ### 🔨 Latest Pull Requests I published
 
-- [Patch gcp-idleness-exporter](https://github.com/7onn/helm-charts/pull/7) on [7onn/helm-charts](https://github.com/7onn/helm-charts) (3 days ago)
-- [Fix golang Docker image](https://github.com/7onn/gcp-idleness-exporter/pull/25) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (3 days ago)
-- [Upgrade oauth2 package &#43; golang](https://github.com/7onn/gcp-idleness-exporter/pull/24) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (3 days ago)
-- [fix(cloudflare): set comments properly](https://github.com/kubernetes-sigs/external-dns/pull/5582) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (3 weeks ago)
+- [Patch gcp-idleness-exporter](https://github.com/7onn/helm-charts/pull/7) on [7onn/helm-charts](https://github.com/7onn/helm-charts) (4 days ago)
+- [Fix golang Docker image](https://github.com/7onn/gcp-idleness-exporter/pull/25) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (4 days ago)
+- [Upgrade oauth2 package &#43; golang](https://github.com/7onn/gcp-idleness-exporter/pull/24) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (4 days ago)
+- [fix(cloudflare): set comments properly](https://github.com/kubernetes-sigs/external-dns/pull/5582) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (4 weeks ago)
 - [feat(cloudflare): Support DNS record tags](https://github.com/kubernetes-sigs/external-dns/pull/5488) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.352](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.352), today) - 
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.15](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.15), 2 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
-- [7onn/helm-charts](https://github.com/7onn/helm-charts) ([gcp-idleness-exporter-1.0.3](https://github.com/7onn/helm-charts/releases/tag/gcp-idleness-exporter-1.0.3), 3 days ago) - Helm charts for Kubernetes
-- [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) ([v2.0.3](https://github.com/7onn/gcp-idleness-exporter/releases/tag/v2.0.3), 3 days ago) - Identify unused resources at Google Cloud Platform through Prometheus&#39; metrics
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.352](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.352), 1 day ago) - 
+- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.15](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.15), 3 days ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
+- [7onn/helm-charts](https://github.com/7onn/helm-charts) ([gcp-idleness-exporter-1.0.3](https://github.com/7onn/helm-charts/releases/tag/gcp-idleness-exporter-1.0.3), 4 days ago) - Helm charts for Kubernetes
+- [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) ([v2.0.3](https://github.com/7onn/gcp-idleness-exporter/releases/tag/v2.0.3), 4 days ago) - Identify unused resources at Google Cloud Platform through Prometheus&#39; metrics
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.18.0), 1 week ago) - Configure external DNS servers dynamically from Kubernetes resources
 
 ### 📝 Some notes of my "blog"
 
-- [Kubernetes management tooling](https://www.7onn.dev/post/kubernetes-management-tooling/) (3 days ago)
+- [Kubernetes management tooling](https://www.7onn.dev/post/kubernetes-management-tooling/) (4 days ago)
 - [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (2 years ago)
 - [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (2 years ago)
 - [Efficiency and performance](https://www.7onn.dev/post/efficiency-and-performance/) (3 years ago)
