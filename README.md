@@ -30,7 +30,7 @@
 
 ### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.46.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.46.2), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.7](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.7), today) - 
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.15](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.15), 1 week ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
 - [7onn/helm-charts](https://github.com/7onn/helm-charts) ([gcp-idleness-exporter-1.0.3](https://github.com/7onn/helm-charts/releases/tag/gcp-idleness-exporter-1.0.3), 1 week ago) - Helm charts for Kubernetes
 - [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) ([v2.0.3](https://github.com/7onn/gcp-idleness-exporter/releases/tag/v2.0.3), 1 week ago) - Identify unused resources at Google Cloud Platform through Prometheus&#39; metrics
