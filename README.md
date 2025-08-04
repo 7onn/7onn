@@ -22,22 +22,22 @@
 
 ### 🔨 Latest Pull Requests I published
 
-- [Patch gcp-idleness-exporter](https://github.com/7onn/helm-charts/pull/7) on [7onn/helm-charts](https://github.com/7onn/helm-charts) (1 week ago)
-- [Fix golang Docker image](https://github.com/7onn/gcp-idleness-exporter/pull/25) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (1 week ago)
-- [Upgrade oauth2 package &#43; golang](https://github.com/7onn/gcp-idleness-exporter/pull/24) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (1 week ago)
+- [Patch gcp-idleness-exporter](https://github.com/7onn/helm-charts/pull/7) on [7onn/helm-charts](https://github.com/7onn/helm-charts) (2 weeks ago)
+- [Fix golang Docker image](https://github.com/7onn/gcp-idleness-exporter/pull/25) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (2 weeks ago)
+- [Upgrade oauth2 package &#43; golang](https://github.com/7onn/gcp-idleness-exporter/pull/24) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (2 weeks ago)
 - [fix(cloudflare): set comments properly](https://github.com/kubernetes-sigs/external-dns/pull/5582) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 month ago)
 - [feat(cloudflare): Support DNS record tags](https://github.com/kubernetes-sigs/external-dns/pull/5488) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
 - [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.15](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.15), 1 week ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
-- [7onn/helm-charts](https://github.com/7onn/helm-charts) ([gcp-idleness-exporter-1.0.3](https://github.com/7onn/helm-charts/releases/tag/gcp-idleness-exporter-1.0.3), 1 week ago) - Helm charts for Kubernetes
-- [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) ([v2.0.3](https://github.com/7onn/gcp-idleness-exporter/releases/tag/v2.0.3), 1 week ago) - Identify unused resources at Google Cloud Platform through Prometheus&#39; metrics
+- [7onn/helm-charts](https://github.com/7onn/helm-charts) ([gcp-idleness-exporter-1.0.3](https://github.com/7onn/helm-charts/releases/tag/gcp-idleness-exporter-1.0.3), 2 weeks ago) - Helm charts for Kubernetes
+- [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) ([v2.0.3](https://github.com/7onn/gcp-idleness-exporter/releases/tag/v2.0.3), 2 weeks ago) - Identify unused resources at Google Cloud Platform through Prometheus&#39; metrics
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.18.0), 2 weeks ago) - Configure external DNS servers dynamically from Kubernetes resources
 
 ### 📝 Some notes of my "blog"
 
-- [Kubernetes management tooling](https://www.7onn.dev/post/kubernetes-management-tooling/) (1 week ago)
+- [Kubernetes management tooling](https://www.7onn.dev/post/kubernetes-management-tooling/) (2 weeks ago)
 - [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (2 years ago)
 - [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (2 years ago)
 - [Efficiency and performance](https://www.7onn.dev/post/efficiency-and-performance/) (3 years ago)
