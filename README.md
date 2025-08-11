@@ -19,6 +19,10 @@
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching (4 months ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (4 months ago)
 - [alexedwards/flow](https://github.com/alexedwards/flow) - A delightfully tiny but powerful HTTP router for Go web applications (4 months ago)
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models (5 months ago)
+- [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge) - A library allowing Terraform providers to be bridged into Pulumi. (5 months ago)
+- [coralogix/telemetry-shippers](https://github.com/coralogix/telemetry-shippers) - Coralogix&#39;s way to ship our best practices when it comes to interaction with our platform.  (7 months ago)
+- [mogensen/helm-changelog](https://github.com/mogensen/helm-changelog) - Create changelogs for Helm Charts, based on git history (7 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
@@ -27,13 +31,8 @@
 - [Upgrade oauth2 package &#43; golang](https://github.com/7onn/gcp-idleness-exporter/pull/24) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (3 weeks ago)
 - [fix(cloudflare): set comments properly](https://github.com/kubernetes-sigs/external-dns/pull/5582) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 month ago)
 - [feat(cloudflare): Support DNS record tags](https://github.com/kubernetes-sigs/external-dns/pull/5488) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (2 months ago)
-
-### 🔭 Latest releases I've contributed to
-
-- [acryldata/datahub-helm](https://github.com/acryldata/datahub-helm) ([datahub-0.6.15](https://github.com/acryldata/datahub-helm/releases/tag/datahub-0.6.15), 2 weeks ago) - Repository of helm charts for deploying DataHub on a Kubernetes cluster
-- [7onn/helm-charts](https://github.com/7onn/helm-charts) ([gcp-idleness-exporter-1.0.3](https://github.com/7onn/helm-charts/releases/tag/gcp-idleness-exporter-1.0.3), 3 weeks ago) - Helm charts for Kubernetes
-- [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) ([v2.0.3](https://github.com/7onn/gcp-idleness-exporter/releases/tag/v2.0.3), 3 weeks ago) - Identify unused resources at Google Cloud Platform through Prometheus&#39; metrics
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.18.0), 3 weeks ago) - Configure external DNS servers dynamically from Kubernetes resources
+- [feat(cloudflare): Suppport DNS record comments](https://github.com/kubernetes-sigs/external-dns/pull/5411) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (2 months ago)
+- [feat(cloudflare): Enable DNS record Comment and Tags](https://github.com/kubernetes-sigs/external-dns/pull/5359) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (3 months ago)
 
 ### 📝 Some notes of my "blog"
 
