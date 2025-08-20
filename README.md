@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [coralogix/terraform-provider-coralogix](https://github.com/coralogix/terraform-provider-coralogix) - Terraform provider for Coralogix (1 day ago)
+- [coralogix/terraform-provider-coralogix](https://github.com/coralogix/terraform-provider-coralogix) - Terraform provider for Coralogix (2 days ago)
 - [prxshetty/hugo-noir](https://github.com/prxshetty/hugo-noir) - Hugo Noir is a clean, minimalistic theme for Hugo with a focus on readability and simplicity. (1 week ago)
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications. (3 weeks ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (3 weeks ago)
@@ -26,17 +26,17 @@
 
 ### 🔨 Latest Pull Requests I published
 
-- [docs: Add GlobalRouter info](https://github.com/coralogix/terraform-provider-coralogix/pull/413) on [coralogix/terraform-provider-coralogix](https://github.com/coralogix/terraform-provider-coralogix) (1 day ago)
-- [Patch gcp-idleness-exporter](https://github.com/7onn/helm-charts/pull/7) on [7onn/helm-charts](https://github.com/7onn/helm-charts) (4 weeks ago)
-- [Fix golang Docker image](https://github.com/7onn/gcp-idleness-exporter/pull/25) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (4 weeks ago)
-- [Upgrade oauth2 package &#43; golang](https://github.com/7onn/gcp-idleness-exporter/pull/24) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (4 weeks ago)
+- [docs: Add GlobalRouter info](https://github.com/coralogix/terraform-provider-coralogix/pull/413) on [coralogix/terraform-provider-coralogix](https://github.com/coralogix/terraform-provider-coralogix) (2 days ago)
+- [Patch gcp-idleness-exporter](https://github.com/7onn/helm-charts/pull/7) on [7onn/helm-charts](https://github.com/7onn/helm-charts) (1 month ago)
+- [Fix golang Docker image](https://github.com/7onn/gcp-idleness-exporter/pull/25) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (1 month ago)
+- [Upgrade oauth2 package &#43; golang](https://github.com/7onn/gcp-idleness-exporter/pull/24) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (1 month ago)
 - [fix(cloudflare): set comments properly](https://github.com/kubernetes-sigs/external-dns/pull/5582) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 month ago)
 - [feat(cloudflare): Support DNS record tags](https://github.com/kubernetes-sigs/external-dns/pull/5488) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (2 months ago)
 - [feat(cloudflare): Suppport DNS record comments](https://github.com/kubernetes-sigs/external-dns/pull/5411) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (3 months ago)
 
 ### 📝 Some notes of my "blog"
 
-- [Kubernetes management tooling](https://www.7onn.dev/post/kubernetes-management-tooling/) (4 weeks ago)
+- [Kubernetes management tooling](https://www.7onn.dev/post/kubernetes-management-tooling/) (1 month ago)
 - [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (2 years ago)
 - [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (2 years ago)
 - [Efficiency and performance](https://www.7onn.dev/post/efficiency-and-performance/) (3 years ago)
