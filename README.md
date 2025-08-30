@@ -9,6 +9,8 @@
 
 ### ⭐ Recently starred repositories
 
+- [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce (today)
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform (today)
 - [coralogix/terraform-provider-coralogix](https://github.com/coralogix/terraform-provider-coralogix) - Terraform provider for Coralogix (1 week ago)
 - [prxshetty/hugo-noir](https://github.com/prxshetty/hugo-noir) - Hugo Noir is a clean, minimalistic theme for Hugo with a focus on readability and simplicity. (3 weeks ago)
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications. (1 month ago)
@@ -21,8 +23,6 @@
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (5 months ago)
 - [alexedwards/flow](https://github.com/alexedwards/flow) - A delightfully tiny but powerful HTTP router for Go web applications (5 months ago)
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models (5 months ago)
-- [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge) - A library allowing Terraform providers to be bridged into Pulumi. (5 months ago)
-- [coralogix/telemetry-shippers](https://github.com/coralogix/telemetry-shippers) - Coralogix&#39;s way to ship our best practices when it comes to interaction with our platform.  (7 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
