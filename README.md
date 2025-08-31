@@ -9,8 +9,8 @@
 
 ### ⭐ Recently starred repositories
 
-- [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce (today)
-- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform (today)
+- [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce (1 day ago)
+- [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform (1 day ago)
 - [coralogix/terraform-provider-coralogix](https://github.com/coralogix/terraform-provider-coralogix) - Terraform provider for Coralogix (1 week ago)
 - [prxshetty/hugo-noir](https://github.com/prxshetty/hugo-noir) - Hugo Noir is a clean, minimalistic theme for Hugo with a focus on readability and simplicity. (3 weeks ago)
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications. (1 month ago)
