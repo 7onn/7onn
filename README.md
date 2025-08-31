@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world&#39;s most flexible commerce platform. (today)
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce (1 day ago)
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform (1 day ago)
 - [coralogix/terraform-provider-coralogix](https://github.com/coralogix/terraform-provider-coralogix) - Terraform provider for Coralogix (1 week ago)
@@ -22,7 +23,6 @@
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching (4 months ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (5 months ago)
 - [alexedwards/flow](https://github.com/alexedwards/flow) - A delightfully tiny but powerful HTTP router for Go web applications (5 months ago)
-- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models (5 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
