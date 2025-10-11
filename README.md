@@ -18,7 +18,7 @@
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (2 months ago)
 - [tienanr/docurift](https://github.com/tienanr/docurift) - DocuRift is an intelligent API documentation generator that automatically analyzes your API traffic and generates comprehensive documentation in multiple formats. It works as a proxy server that captures API requests and responses, then generates OpenAPI and Postman collection documentation. (5 months ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (5 months ago)
-- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens. (5 months ago)
+- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens. (6 months ago)
 - [clickswave/voyage](https://github.com/clickswave/voyage) - Voyage is a stateful subdomain enumeration tool that combines passive and active techniques, user-specific databases, and fine-grained control built for efficient and reliable subdomain reconnaissance. (6 months ago)
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and CI on demand. Use the same configuration and workflows at every step of the process. Speed up your builds and test runs via shared result caching (6 months ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (6 months ago)
@@ -26,7 +26,7 @@
 
 ### 🔨 Latest Pull Requests I published
 
-- [ci(secrets): Use GH App instead of PAT CU-86c5w81vz](https://github.com/Kittl/vectorizing/pull/67) on [Kittl/vectorizing](https://github.com/Kittl/vectorizing) (today)
+- [ci(secrets): Use GH App instead of PAT CU-86c5w81vz](https://github.com/Kittl/vectorizing/pull/67) on [Kittl/vectorizing](https://github.com/Kittl/vectorizing) (1 day ago)
 - [docs: Add GlobalRouter info](https://github.com/coralogix/terraform-provider-coralogix/pull/413) on [coralogix/terraform-provider-coralogix](https://github.com/coralogix/terraform-provider-coralogix) (1 month ago)
 - [Patch gcp-idleness-exporter](https://github.com/7onn/helm-charts/pull/7) on [7onn/helm-charts](https://github.com/7onn/helm-charts) (2 months ago)
 - [Fix golang Docker image](https://github.com/7onn/gcp-idleness-exporter/pull/25) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (2 months ago)
