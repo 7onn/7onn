@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) - MCP server connecting to Kubernetes (1 day ago)
+- [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) - MCP server connecting to Kubernetes (2 days ago)
 - [Labbs/github-actions-exporter](https://github.com/Labbs/github-actions-exporter) - github-actions-exporter for prometheus (2 weeks ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (2 weeks ago)
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world&#39;s most flexible commerce platform. (1 month ago)
@@ -26,7 +26,7 @@
 
 ### 🔨 Latest Pull Requests I published
 
-- [ci(secrets): Use GH App instead of PAT CU-86c5y4a84](https://github.com/Kittl/rembg/pull/1) on [Kittl/rembg](https://github.com/Kittl/rembg) (1 day ago)
+- [ci(secrets): Use GH App instead of PAT CU-86c5y4a84](https://github.com/Kittl/rembg/pull/1) on [Kittl/rembg](https://github.com/Kittl/rembg) (2 days ago)
 - [ci(secrets): Use GH App instead of PAT CU-86c5w81vz](https://github.com/Kittl/vectorizing/pull/67) on [Kittl/vectorizing](https://github.com/Kittl/vectorizing) (1 week ago)
 - [docs: Add GlobalRouter info](https://github.com/coralogix/terraform-provider-coralogix/pull/413) on [coralogix/terraform-provider-coralogix](https://github.com/coralogix/terraform-provider-coralogix) (2 months ago)
 - [Patch gcp-idleness-exporter](https://github.com/7onn/helm-charts/pull/7) on [7onn/helm-charts](https://github.com/7onn/helm-charts) (2 months ago)
