@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 day ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (2 days ago)
 - [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) - MCP server connecting to Kubernetes (2 weeks ago)
 - [Labbs/github-actions-exporter](https://github.com/Labbs/github-actions-exporter) - github-actions-exporter for prometheus (1 month ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (1 month ago)
@@ -27,7 +27,7 @@
 ### 🔨 Latest Pull Requests I published
 
 - [ci(secrets): Use GH App instead of PAT CU-86c5y4a84](https://github.com/Kittl/rembg/pull/1) on [Kittl/rembg](https://github.com/Kittl/rembg) (2 weeks ago)
-- [ci(secrets): Use GH App instead of PAT CU-86c5w81vz](https://github.com/Kittl/vectorizing/pull/67) on [Kittl/vectorizing](https://github.com/Kittl/vectorizing) (2 weeks ago)
+- [ci(secrets): Use GH App instead of PAT CU-86c5w81vz](https://github.com/Kittl/vectorizing/pull/67) on [Kittl/vectorizing](https://github.com/Kittl/vectorizing) (3 weeks ago)
 - [docs: Add GlobalRouter info](https://github.com/coralogix/terraform-provider-coralogix/pull/413) on [coralogix/terraform-provider-coralogix](https://github.com/coralogix/terraform-provider-coralogix) (2 months ago)
 - [Patch gcp-idleness-exporter](https://github.com/7onn/helm-charts/pull/7) on [7onn/helm-charts](https://github.com/7onn/helm-charts) (3 months ago)
 - [Fix golang Docker image](https://github.com/7onn/gcp-idleness-exporter/pull/25) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (3 months ago)
