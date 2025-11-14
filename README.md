@@ -9,8 +9,8 @@
 
 ### ⭐ Recently starred repositories
 
-- [haloydev/haloy](https://github.com/haloydev/haloy) - Deploy containerized apps with zero downtime, automatic SSL, and effortless scaling (2 days ago)
-- [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (2 days ago)
+- [haloydev/haloy](https://github.com/haloydev/haloy) - Deploy containerized apps with zero downtime, automatic SSL, and effortless scaling (3 days ago)
+- [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (3 days ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (2 weeks ago)
 - [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) - MCP server connecting to Kubernetes (4 weeks ago)
 - [Labbs/github-actions-exporter](https://github.com/Labbs/github-actions-exporter) - github-actions-exporter for prometheus (1 month ago)
