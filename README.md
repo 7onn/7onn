@@ -9,10 +9,10 @@
 
 ### ⭐ Recently starred repositories
 
-- [haloydev/haloy](https://github.com/haloydev/haloy) - Deploy containerized apps with zero downtime, automatic SSL, and effortless scaling (3 days ago)
-- [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (3 days ago)
+- [haloydev/haloy](https://github.com/haloydev/haloy) - Deploy containerized apps with zero downtime, automatic SSL, and effortless scaling (4 days ago)
+- [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (4 days ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (2 weeks ago)
-- [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) - MCP server connecting to Kubernetes (4 weeks ago)
+- [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) - MCP server connecting to Kubernetes (1 month ago)
 - [Labbs/github-actions-exporter](https://github.com/Labbs/github-actions-exporter) - github-actions-exporter for prometheus (1 month ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (1 month ago)
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world&#39;s most flexible commerce platform. (2 months ago)
@@ -26,7 +26,7 @@
 
 ### 🔨 Latest Pull Requests I published
 
-- [ci(secrets): Use GH App instead of PAT CU-86c5y4a84](https://github.com/Kittl/rembg/pull/1) on [Kittl/rembg](https://github.com/Kittl/rembg) (4 weeks ago)
+- [ci(secrets): Use GH App instead of PAT CU-86c5y4a84](https://github.com/Kittl/rembg/pull/1) on [Kittl/rembg](https://github.com/Kittl/rembg) (1 month ago)
 - [ci(secrets): Use GH App instead of PAT CU-86c5w81vz](https://github.com/Kittl/vectorizing/pull/67) on [Kittl/vectorizing](https://github.com/Kittl/vectorizing) (1 month ago)
 - [docs: Add GlobalRouter info](https://github.com/coralogix/terraform-provider-coralogix/pull/413) on [coralogix/terraform-provider-coralogix](https://github.com/coralogix/terraform-provider-coralogix) (2 months ago)
 - [Patch gcp-idleness-exporter](https://github.com/7onn/helm-charts/pull/7) on [7onn/helm-charts](https://github.com/7onn/helm-charts) (3 months ago)
