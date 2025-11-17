@@ -9,6 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
+- [lechgu/tichy](https://github.com/lechgu/tichy) (today)
 - [haloydev/haloy](https://github.com/haloydev/haloy) - Deploy containerized apps with zero downtime, automatic SSL, and effortless scaling (6 days ago)
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (6 days ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (2 weeks ago)
@@ -22,7 +23,6 @@
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (3 months ago)
 - [tienanr/docurift](https://github.com/tienanr/docurift) - DocuRift is an intelligent API documentation generator that automatically analyzes your API traffic and generates comprehensive documentation in multiple formats. It works as a proxy server that captures API requests and responses, then generates OpenAPI and Postman collection documentation. (6 months ago)
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust (6 months ago)
-- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens. (7 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
