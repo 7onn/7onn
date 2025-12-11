@@ -10,8 +10,8 @@
 ### ⭐ Recently starred repositories
 
 - [lechgu/tichy](https://github.com/lechgu/tichy) (3 weeks ago)
-- [haloydev/haloy](https://github.com/haloydev/haloy) - Deploy containerized apps with zero downtime, automatic SSL, and effortless scaling (4 weeks ago)
-- [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (4 weeks ago)
+- [haloydev/haloy](https://github.com/haloydev/haloy) - Deploy containerized apps with zero downtime, automatic SSL, and effortless scaling (1 month ago)
+- [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (1 month ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 month ago)
 - [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) - MCP server connecting to Kubernetes (1 month ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (2 months ago)
