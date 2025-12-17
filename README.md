@@ -9,8 +9,8 @@
 
 ### ⭐ Recently starred repositories
 
-- [lechgu/tichy](https://github.com/lechgu/tichy) (4 weeks ago)
-- [haloydev/haloy](https://github.com/haloydev/haloy) - Deploy containerized apps with zero downtime, automatic SSL, and effortless scaling (1 month ago)
+- [lechgu/tichy](https://github.com/lechgu/tichy) (1 month ago)
+- [haloydev/haloy](https://github.com/haloydev/haloy) - Deploy containerized apps  (1 month ago)
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (1 month ago)
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 month ago)
 - [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) - MCP server connecting to Kubernetes (2 months ago)
