@@ -36,7 +36,7 @@
 
 ### 📝 Some notes of my "blog"
 
-- [Kubernetes metrics, logs, and traces via OpenTelemetry collector](https://www.7onn.dev/post/kubernetes-otel-collector/) (1 week ago)
+- [Kubernetes metrics, logs, and traces via OpenTelemetry collector](https://www.7onn.dev/post/kubernetes-otel-collector/) (2 weeks ago)
 - [Kubernetes management tooling](https://www.7onn.dev/post/kubernetes-management-tooling/) (5 months ago)
 - [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (2 years ago)
 - [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (2 years ago)
