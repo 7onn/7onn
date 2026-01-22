@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (1 week ago)
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (2 weeks ago)
 - [lechgu/tichy](https://github.com/lechgu/tichy) (2 months ago)
 - [haloydev/haloy](https://github.com/haloydev/haloy) - Deploy containerized apps  (2 months ago)
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (2 months ago)
