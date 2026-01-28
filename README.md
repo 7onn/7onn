@@ -16,7 +16,7 @@
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (3 months ago)
 - [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) - MCP server connecting to Kubernetes (3 months ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (4 months ago)
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The world&#39;s most flexible commerce platform. (4 months ago)
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world&#39;s most flexible commerce platform. (5 months ago)
 - [prxshetty/hugo-noir](https://github.com/prxshetty/hugo-noir) - Hugo Noir is a clean, minimalistic theme for Hugo with a focus on readability and simplicity. (5 months ago)
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications. (6 months ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (6 months ago)
