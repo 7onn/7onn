@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [Herenn/Infralens](https://github.com/Herenn/Infralens) - InfraLens is a next-generation observability tool that uses eBPF to automatically discover and visualize service-to-service communication in Kubernetes clusters—without requiring any code changes or sidecars. (1 day ago)
+- [Herenn/Infralens](https://github.com/Herenn/Infralens) - InfraLens is a next-generation observability tool that uses eBPF to automatically discover and visualize service-to-service communication in Kubernetes clusters—without requiring any code changes or sidecars. (2 days ago)
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (3 weeks ago)
 - [lechgu/tichy](https://github.com/lechgu/tichy) (2 months ago)
 - [haloydev/haloy](https://github.com/haloydev/haloy) - Deploy containerized apps  (2 months ago)
