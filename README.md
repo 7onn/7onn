@@ -9,8 +9,8 @@
 
 ### ⭐ Recently starred repositories
 
-- [Herenn/Infralens](https://github.com/Herenn/Infralens) - InfraLens is a next-generation observability tool that uses eBPF to automatically discover and visualize service-to-service communication in Kubernetes clusters—without requiring any code changes or sidecars. (5 days ago)
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (3 weeks ago)
+- [Herenn/Infralens](https://github.com/Herenn/Infralens) - InfraLens is a next-generation observability tool that uses eBPF to automatically discover and visualize service-to-service communication in Kubernetes clusters—without requiring any code changes or sidecars. (6 days ago)
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (4 weeks ago)
 - [lechgu/tichy](https://github.com/lechgu/tichy) (2 months ago)
 - [haloydev/haloy](https://github.com/haloydev/haloy) - Deploy containerized apps  (2 months ago)
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (2 months ago)
@@ -26,7 +26,7 @@
 
 ### 🔨 Latest Pull Requests I published
 
-- [feat(custom_attr): Parse custom attr from logs CU-86c7m38y9](https://github.com/Kittl/GitHubAction-OTLP-Exporter/pull/1) on [Kittl/GitHubAction-OTLP-Exporter](https://github.com/Kittl/GitHubAction-OTLP-Exporter) (1 day ago)
+- [feat(custom_attr): Parse custom attr from logs CU-86c7m38y9](https://github.com/Kittl/GitHubAction-OTLP-Exporter/pull/1) on [Kittl/GitHubAction-OTLP-Exporter](https://github.com/Kittl/GitHubAction-OTLP-Exporter) (2 days ago)
 - [ci(secrets): Use GH App instead of PAT CU-86c5y4a84](https://github.com/Kittl/rembg/pull/1) on [Kittl/rembg](https://github.com/Kittl/rembg) (3 months ago)
 - [ci(secrets): Use GH App instead of PAT CU-86c5w81vz](https://github.com/Kittl/vectorizing/pull/67) on [Kittl/vectorizing](https://github.com/Kittl/vectorizing) (3 months ago)
 - [docs: Add GlobalRouter info](https://github.com/coralogix/terraform-provider-coralogix/pull/413) on [coralogix/terraform-provider-coralogix](https://github.com/coralogix/terraform-provider-coralogix) (5 months ago)
