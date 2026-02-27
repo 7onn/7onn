@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [Herenn/Infralens](https://github.com/Herenn/Infralens) - InfraLens is a next-generation observability tool that uses eBPF to automatically discover and visualize service-to-service communication in Kubernetes clusters—without requiring any code changes or sidecars. (3 weeks ago)
+- [Herenn/Infralens](https://github.com/Herenn/Infralens) - InfraLens is a next-generation observability tool that uses eBPF to automatically discover and visualize service-to-service communication in Kubernetes clusters—without requiring any code changes or sidecars. (4 weeks ago)
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (1 month ago)
 - [lechgu/tichy](https://github.com/lechgu/tichy) (3 months ago)
 - [haloydev/haloy](https://github.com/haloydev/haloy) - Deploy to your own servers, minus the platform overhead (3 months ago)
@@ -17,7 +17,7 @@
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (4 months ago)
 - [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) - MCP server connecting to Kubernetes (4 months ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (5 months ago)
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The world&#39;s most flexible commerce platform. (5 months ago)
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world&#39;s most flexible commerce platform. (6 months ago)
 - [prxshetty/hugo-noir](https://github.com/prxshetty/hugo-noir) - Hugo Noir is a clean, minimalistic theme for Hugo with a focus on readability and simplicity. (6 months ago)
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications. (7 months ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (7 months ago)
