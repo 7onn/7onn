@@ -14,7 +14,7 @@
 - [lechgu/tichy](https://github.com/lechgu/tichy) (4 months ago)
 - [haloydev/haloy](https://github.com/haloydev/haloy) - Deploy apps to your own server (4 months ago)
 - [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (4 months ago)
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (4 months ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (5 months ago)
 - [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) - MCP server connecting to Kubernetes (5 months ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins. (6 months ago)
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world&#39;s most flexible commerce platform. (6 months ago)
