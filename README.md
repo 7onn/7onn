@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [firetiger-oss/go-duckfs](https://github.com/firetiger-oss/go-duckfs) - DuckDB virtual file system based on io/fs (3 days ago)
+- [firetiger-oss/go-duckfs](https://github.com/firetiger-oss/go-duckfs) - DuckDB virtual file system based on io/fs (4 days ago)
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43; (1 week ago)
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (1 week ago)
 - [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Gemma open-weight LLM library, from Google DeepMind (1 week ago)
@@ -36,7 +36,7 @@
 
 ### 📝 Some notes of my "blog"
 
-- [Kubernetes metrics, logs, and traces via OpenTelemetry collector](https://www.7onn.dev/post/kubernetes-otel-collector/) (3 months ago)
+- [Kubernetes metrics, logs, and traces via OpenTelemetry collector](https://www.7onn.dev/post/kubernetes-otel-collector/) (4 months ago)
 - [Kubernetes management tooling](https://www.7onn.dev/post/kubernetes-management-tooling/) (9 months ago)
 - [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (2 years ago)
 - [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (2 years ago)
