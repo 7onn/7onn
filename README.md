@@ -10,7 +10,7 @@
 ### ⭐ Recently starred repositories
 
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (1 week ago)
-- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (2 weeks ago)
+- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (3 weeks ago)
 - [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that pulls infrastructure assets and their relationships into a Neo4j graph database. (4 weeks ago)
 - [firetiger-oss/go-duckfs](https://github.com/firetiger-oss/go-duckfs) - DuckDB virtual file system based on io/fs (1 month ago)
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43; (1 month ago)
@@ -36,7 +36,7 @@
 
 ### 📝 Some notes of my "blog"
 
-- [Postgres elevated memory in idleness](https://www.7onn.dev/post/postgres-elevated-memory-usage-while-idle/) (3 days ago)
+- [Postgres elevated memory in idleness](https://www.7onn.dev/post/postgres-elevated-memory-usage-while-idle/) (4 days ago)
 - [Kubernetes metrics, logs, and traces via OpenTelemetry collector](https://www.7onn.dev/post/kubernetes-otel-collector/) (5 months ago)
 - [Kubernetes management tooling](https://www.7onn.dev/post/kubernetes-management-tooling/) (10 months ago)
 - [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (2 years ago)
