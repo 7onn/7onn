@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (today)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (1 day ago)
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (2 weeks ago)
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (3 weeks ago)
 - [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that pulls infrastructure assets and their relationships into a Neo4j graph database. (1 month ago)
