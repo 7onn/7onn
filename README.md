@@ -9,9 +9,9 @@
 
 ### ⭐ Recently starred repositories
 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (5 days ago)
-- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (2 weeks ago)
-- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (4 weeks ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (6 days ago)
+- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (3 weeks ago)
+- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (1 month ago)
 - [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that pulls infrastructure assets and their relationships into a Neo4j graph database. (1 month ago)
 - [firetiger-oss/go-duckfs](https://github.com/firetiger-oss/go-duckfs) - DuckDB virtual file system based on io/fs (1 month ago)
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43; (1 month ago)
@@ -26,7 +26,7 @@
 
 ### 🔨 Latest Pull Requests I published
 
-- [feat(custom_attr): Parse custom attr from logs CU-86c7m38y9](https://github.com/Kittl/GitHubAction-OTLP-Exporter/pull/1) on [Kittl/GitHubAction-OTLP-Exporter](https://github.com/Kittl/GitHubAction-OTLP-Exporter) (3 months ago)
+- [feat(custom_attr): Parse custom attr from logs CU-86c7m38y9](https://github.com/Kittl/GitHubAction-OTLP-Exporter/pull/1) on [Kittl/GitHubAction-OTLP-Exporter](https://github.com/Kittl/GitHubAction-OTLP-Exporter) (4 months ago)
 - [ci(secrets): Use GH App instead of PAT CU-86c5y4a84](https://github.com/Kittl/rembg/pull/1) on [Kittl/rembg](https://github.com/Kittl/rembg) (7 months ago)
 - [ci(secrets): Use GH App instead of PAT CU-86c5w81vz](https://github.com/Kittl/vectorizing/pull/67) on [Kittl/vectorizing](https://github.com/Kittl/vectorizing) (7 months ago)
 - [docs: Add GlobalRouter info](https://github.com/coralogix/terraform-provider-coralogix/pull/413) on [coralogix/terraform-provider-coralogix](https://github.com/coralogix/terraform-provider-coralogix) (9 months ago)
