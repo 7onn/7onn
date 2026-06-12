@@ -10,13 +10,13 @@
 ### ⭐ Recently starred repositories
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (2 weeks ago)
-- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (4 weeks ago)
+- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (1 month ago)
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (1 month ago)
 - [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that pulls infrastructure assets and their relationships into a Neo4j graph database. (1 month ago)
 - [firetiger-oss/go-duckfs](https://github.com/firetiger-oss/go-duckfs) - DuckDB virtual file system based on io/fs (1 month ago)
-- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43; (1 month ago)
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. (1 month ago)
-- [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Gemma open-weight LLM library, from Google DeepMind (1 month ago)
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43; (2 months ago)
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. (2 months ago)
+- [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Gemma open-weight LLM library, from Google DeepMind (2 months ago)
 - [Herenn/Infralens](https://github.com/Herenn/Infralens) - InfraLens is a next-generation observability tool that uses eBPF to automatically discover and visualize service-to-service communication in Kubernetes clusters—without requiring any code changes or sidecars. (4 months ago)
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (5 months ago)
 - [lechgu/tichy](https://github.com/lechgu/tichy) (6 months ago)
