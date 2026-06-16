@@ -13,7 +13,7 @@
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (1 month ago)
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (1 month ago)
 - [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that pulls infrastructure assets and their relationships into a Neo4j graph database. (1 month ago)
-- [firetiger-oss/go-duckfs](https://github.com/firetiger-oss/go-duckfs) - DuckDB virtual file system based on io/fs (1 month ago)
+- [firetiger-oss/go-duckfs](https://github.com/firetiger-oss/go-duckfs) - DuckDB virtual file system based on io/fs (2 months ago)
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43; (2 months ago)
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. (2 months ago)
 - [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Gemma open-weight LLM library, from Google DeepMind (2 months ago)
@@ -30,15 +30,15 @@
 - [ci(secrets): Use GH App instead of PAT CU-86c5y4a84](https://github.com/Kittl/rembg/pull/1) on [Kittl/rembg](https://github.com/Kittl/rembg) (8 months ago)
 - [ci(secrets): Use GH App instead of PAT CU-86c5w81vz](https://github.com/Kittl/vectorizing/pull/67) on [Kittl/vectorizing](https://github.com/Kittl/vectorizing) (8 months ago)
 - [docs: Add GlobalRouter info](https://github.com/coralogix/terraform-provider-coralogix/pull/413) on [coralogix/terraform-provider-coralogix](https://github.com/coralogix/terraform-provider-coralogix) (10 months ago)
-- [Patch gcp-idleness-exporter](https://github.com/7onn/helm-charts/pull/7) on [7onn/helm-charts](https://github.com/7onn/helm-charts) (10 months ago)
-- [Fix golang Docker image](https://github.com/7onn/gcp-idleness-exporter/pull/25) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (10 months ago)
-- [Upgrade oauth2 package &#43; golang](https://github.com/7onn/gcp-idleness-exporter/pull/24) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (10 months ago)
+- [Patch gcp-idleness-exporter](https://github.com/7onn/helm-charts/pull/7) on [7onn/helm-charts](https://github.com/7onn/helm-charts) (11 months ago)
+- [Fix golang Docker image](https://github.com/7onn/gcp-idleness-exporter/pull/25) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (11 months ago)
+- [Upgrade oauth2 package &#43; golang](https://github.com/7onn/gcp-idleness-exporter/pull/24) on [7onn/gcp-idleness-exporter](https://github.com/7onn/gcp-idleness-exporter) (11 months ago)
 
 ### 📝 Some notes of my "blog"
 
 - [Postgres elevated memory in idleness](https://www.7onn.dev/post/postgres-elevated-memory-usage-while-idle/) (3 weeks ago)
 - [Kubernetes metrics, logs, and traces via OpenTelemetry collector](https://www.7onn.dev/post/kubernetes-otel-collector/) (5 months ago)
-- [Kubernetes management tooling](https://www.7onn.dev/post/kubernetes-management-tooling/) (10 months ago)
+- [Kubernetes management tooling](https://www.7onn.dev/post/kubernetes-management-tooling/) (11 months ago)
 - [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (2 years ago)
 - [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (2 years ago)
 
