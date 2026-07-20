@@ -36,8 +36,8 @@
 
 ### 📝 Some notes of my "blog"
 
-- [Postgres elevated memory in idleness](https://www.7onn.dev/post/postgres-elevated-memory-usage-while-idle/) (1 month ago)
-- [Kubernetes metrics, logs, and traces via OpenTelemetry collector](https://www.7onn.dev/post/kubernetes-otel-collector/) (6 months ago)
+- [Postgres elevated memory in idleness](https://www.7onn.dev/post/postgres-elevated-memory-usage-while-idle/) (2 months ago)
+- [Kubernetes metrics, logs, and traces via OpenTelemetry collector](https://www.7onn.dev/post/kubernetes-otel-collector/) (7 months ago)
 - [Kubernetes management tooling](https://www.7onn.dev/post/kubernetes-management-tooling/) (1 year ago)
 - [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (2 years ago)
 - [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (2 years ago)
