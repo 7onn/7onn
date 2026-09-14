@@ -9,13 +9,13 @@
 
 ### ⭐ Recently starred repositories
 
-- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters. Each gets its own API server, CRDs and RBAC, and runs on an existing cluster or standalone on bare metal. CNCF Certified Kubernetes. (1 week ago)
+- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters. Each gets its own API server, CRDs and RBAC, and runs on an existing cluster or standalone on bare metal. CNCF Certified Kubernetes. (2 weeks ago)
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (1 month ago)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (3 months ago)
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (4 months ago)
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (4 months ago)
 - [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography) - Cartography is a Python tool that pulls infrastructure assets and their relationships into a Neo4j graph database. (4 months ago)
-- [firetiger-oss/go-duckfs](https://github.com/firetiger-oss/go-duckfs) - DuckDB virtual file system based on io/fs (4 months ago)
+- [firetiger-oss/go-duckfs](https://github.com/firetiger-oss/go-duckfs) - DuckDB virtual file system based on io/fs (5 months ago)
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43; (5 months ago)
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention. (5 months ago)
 - [google-deepmind/gemma](https://github.com/google-deepmind/gemma) - Gemma open-weight LLM library, from Google DeepMind (5 months ago)
