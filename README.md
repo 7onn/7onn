@@ -21,8 +21,8 @@
 - [Herenn/Infralens](https://github.com/Herenn/Infralens) - InfraLens is a next-generation observability tool that uses eBPF to automatically discover and visualize service-to-service communication in Kubernetes clusters—without requiring any code changes or sidecars. (8 months ago)
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile. (9 months ago)
 - [lechgu/tichy](https://github.com/lechgu/tichy) (10 months ago)
-- [haloydev/haloy](https://github.com/haloydev/haloy) - Deploy apps to your own server (10 months ago)
-- [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (10 months ago)
+- [haloydev/haloy](https://github.com/haloydev/haloy) - Deploy apps to your own server (11 months ago)
+- [darksworm/argonaut](https://github.com/darksworm/argonaut) - Keyboard-first terminal UI for Argo CD. Browse apps, scope by clusters/namespaces/projects, stream live resource status, trigger syncs, inspect diffs, and roll back safely — all without leaving your terminal. (11 months ago)
 
 ### 🔨 Latest Pull Requests I published
 
