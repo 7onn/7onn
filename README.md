@@ -9,7 +9,7 @@
 
 ### ⭐ Recently starred repositories
 
-- [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. (2 days ago)
+- [nklmilojevic/sofka](https://github.com/nklmilojevic/sofka) - A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. (3 days ago)
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters. Each gets its own API server, CRDs and RBAC, and runs on an existing cluster or standalone on bare metal. CNCF Certified Kubernetes. (2 months ago)
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang (3 months ago)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (5 months ago)
@@ -36,8 +36,8 @@
 
 ### 📝 Some notes of my "blog"
 
-- [Postgres elevated memory in idleness](https://www.7onn.dev/post/postgres-elevated-memory-usage-while-idle/) (5 months ago)
-- [Kubernetes metrics, logs, and traces via OpenTelemetry collector](https://www.7onn.dev/post/kubernetes-otel-collector/) (10 months ago)
+- [Postgres elevated memory in idleness](https://www.7onn.dev/post/postgres-elevated-memory-usage-while-idle/) (6 months ago)
+- [Kubernetes metrics, logs, and traces via OpenTelemetry collector](https://www.7onn.dev/post/kubernetes-otel-collector/) (11 months ago)
 - [Kubernetes management tooling](https://www.7onn.dev/post/kubernetes-management-tooling/) (1 year ago)
 - [TCP Connections and Buffers in Go](https://www.7onn.dev/post/tcp-connections-and-buffers-in-go/) (2 years ago)
 - [GPG encryption and how to use it](https://www.7onn.dev/post/gpg-encryption/) (2 years ago)
